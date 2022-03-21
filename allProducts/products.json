@@ -1,0 +1,1624 @@
+{
+    "products": [
+        {
+            "sno": "1",
+            "product_id": "577eb1fa-430b-11ec-bdcd-acde48001122",
+            "product_name": "Physio Tens Machine",
+            "product_image": "physio_tens_machine.jpeg",
+            "product_category": "PhysiotherapyEquipmentsAndTensUnit",
+            "product_price": "4000",
+            "product_description": "Physio Tens Machine is basically used for pain relief and it sends electrical pulses through the skin to start your body's own pain killers. This Physio Tens Machine is of Physio Modalities Brand. Physio Tens Machine is a four channels machine. Physio Tens Machine has traditional modes Of the TENS unit. The weight of this Physio Tens Machine is 1.2kg.",
+            "product_brochure": null
+        },
+        {
+            "sno": "2",
+            "product_id": "c69adedc-431b-11ec-bdcd-acde48001122",
+            "product_name": "Dettol Disinfectant",
+            "product_image": "dettolDisinfectant.jpeg",
+            "product_category": "Dettol",
+            "product_price": "0",
+            "product_description": "Dettol Disinfectant is a proven effective concentrated antiseptic disinfectant that kills bacteria and provides protection against bacteria which can cause infection and illness. It can be used for gentle antiseptic wound cleansing and disinfection and antiseptic skin cleansing. This Disinfectant Liquid sanitizes your home and also helps maintain your personal hygiene. It can be used in bath, laundry, floor and surface cleaning, leaving everything clean and fresh.",
+            "product_brochure": null
+        },
+        {
+            "sno": "3",
+            "product_id": "47487652-431c-11ec-bdcd-acde48001122",
+            "product_name": "Dettol Soap",
+            "product_image": "dettolSoap.jpeg",
+            "product_category": "OriginalDettolBathSoap",
+            "product_price": "0",
+            "product_description": "Dettol original soap with classic Dettol fragrance provides Dettol's trusted germ protection from a wide range of unseen germs. It cleanses and protects your skin keeping you healthy. Personal hygiene play a critical role in preventing the spread of illness and infection. Poor personal hygiene can cause infection, skin complaints, unpleasant smells and skin infections. With Dettol’s Original Soap, stay protected from 100 illness-causing germs.",
+            "product_brochure": null
+        },
+        {
+            "sno": "4",
+            "product_id": "ceac0c8a-431c-11ec-bdcd-acde48001122",
+            "product_name": "Automatic Hand Dispenser",
+            "product_image": "automaticHandDispenser.jpeg",
+            "product_category": "Safehands-AutoHandSanitizer",
+            "product_price": "0",
+            "product_description": "Automatic hand sanitizer is an ultra-sanitary sanitizer dispenser that has a built-in motion detector, when it sense your hands under the spout to dispense, it will provide you the perfect amount of liquid sanitizer automatically to get your hands quickly clean. It uses Smart Sensor Technology and is a no Touch sanitizer dispenser. The material of this item is plastic and its capacity is 1 to 6 Litre.",
+            "product_brochure": null
+        },
+        {
+            "sno": "5",
+            "product_id": "fca16210-431d-11ec-bdcd-acde48001122",
+            "product_name": "Massager",
+            "product_image": "massager.jpeg",
+            "product_category": "MassagerMachine",
+            "product_price": "3500",
+            "product_description": "Massagers are compact and handy tools that help you achieve a relaxing massage in the comfort of your home. They can help provide you with a variety of benefits for health-related purposes. You can use these devices to help relieve any pain in your muscles and joints. It provides relaxation to help you calm down your mind and body. It can also help reduce your stress levels and anxiety. These devices can also help you achieve a better quality of sleep when used right before sleeping. It can also improve the elasticity of your skin.",
+            "product_brochure": null
+        },
+        {
+            "sno": "6",
+            "product_id": "7d9f5b82-431f-11ec-bdcd-acde48001122",
+            "product_name": "Savlon Wipes 72 Pcs",
+            "product_image": "savlonWipes72Pcs.jpeg",
+            "product_category": "SkinCareCosmetics",
+            "product_price": "180",
+            "product_description": "Savlon brand wipes protect you from 99.99% germs along with dust and impurities. These wipes have a Skin Friendly pH, and are soft and gentle on the skin. The Fragrance provides you a fresh and clean feeling post use. These can be used by anyone and you can use these wipes on hands, body and surfaces, at home or at work, or on-the-go. There are 72 wipes in one packet and the color of the wipes is white and the material is Polypropylene. This is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "7",
+            "product_id": "e1f8ce78-4320-11ec-bdcd-acde48001122",
+            "product_name": "Steam Vaporizer",
+            "product_image": "steamVaporizer.jpeg",
+            "product_category": "SteamVaporizerMachine",
+            "product_price": "130",
+            "product_description": "Steam Vaporizer Machine is generally used to take steam and this Steam Vaporizer Machine is electrically operated. It boils water and creates steam. The steam cools down before it leaves the machine, enters the air, and reaches the body. The capacity of this Steam Vaporizer is 1.5 Litres. The material of this Steam Vaporizer is plastic and the shape is round. This is a Made in India product.\r\n",
+            "product_brochure": null
+        },
+        {
+            "sno": "8",
+            "product_id": "7b229fe8-4321-11ec-bdcd-acde48001122",
+            "product_name": "Sonography Gel",
+            "product_image": "sonographyGel.jpeg",
+            "product_category": "SonographyGel",
+            "product_price": "11",
+            "product_description": "The minimum quantity for the order of Sonography Gel is 100 pieces.",
+            "product_brochure": null
+        },
+        {
+            "sno": "9",
+            "product_id": "ae588f88-4323-11ec-bdcd-acde48001122",
+            "product_name": "Motorized Wheelchair",
+            "product_image": "motorizedWheelchair.jpeg",
+            "product_category": "MotorizedWheelchair",
+            "product_price": "42000",
+            "product_description": "Motorized wheelchairs are useful for those unable to propel a manual wheelchair or who may need to use a wheelchair for distances or over terrain which would be fatiguing in a manual wheelchair. The frame color of Motorized Wheelchair is black. And the weight capacity for this Motorized Wheelchair is upto 250lbs(113.4 kgs).",
+            "product_brochure": null
+        },
+        {
+            "sno": "10",
+            "product_id": "27b5623e-4324-11ec-bdcd-acde48001122",
+            "product_name": "Savlon Disinfectant Spray",
+            "product_image": "savlonDisinfectantSpray.jpeg",
+            "product_category": "DisinfectantSpray",
+            "product_price": "145",
+            "product_description": "Savlon Brand Disinfectant Spray is used to kill 99.99% germs. Savlon Disinfectant Spray kills viruses and bacteria and also kills antibiotic resistant germs. There is no need to wipe after spraying the Savlon Disinfectant Spray. This is a Made in India product. Savlon Disinfectant Spray can be used anywhere be it home or hospitals or any other place and it is 100 percent pure.\r\n",
+            "product_brochure": null
+        },
+        {
+            "sno": "11",
+            "product_id": "6e343660-4548-11ec-85a8-acde48001122",
+            "product_name": "Small Hydrocollator",
+            "product_image": "smallHydrocollator.jpeg",
+            "product_category": "Hydrocollator",
+            "product_price": "7000",
+            "product_description": "Our firm is ranked amongst the reputed names in the market for offering an extensive range of Small Hydrocollator. The operating voltage of this Small Hydrocollator is 220V and its power consumption is 2000Watt. Also the operating current of this Small Hydrocollator is 50Hz. This product can be used at hospitals or clinics.",
+            "product_brochure": null
+        },
+        {
+            "sno": "12",
+            "product_id": "fc5164c2-4548-11ec-85a8-acde48001122",
+            "product_name": "Travel Wheelchair",
+            "product_image": "travelWheelchair.jpeg",
+            "product_category": "WheelChair",
+            "product_price": "4300",
+            "product_description": "A travel wheelchair is basically a lightweight wheelchair for travel. These wheelchairs are designed to be lighter than daily use wheelchairs and can fold to have a smaller profile. The frame color of this travel wheelchair is silver. The width of the seat is between 15 to 17 inches. The material of this Travel Wheelchair is steel and this is a manual wheelchair.",
+            "product_brochure": null
+        },
+        {
+            "sno": "13",
+            "product_id": "37fa2c38-454f-11ec-85a8-acde48001122",
+            "product_name": "Dettol Hygiene Liquid Lime 200 ML",
+            "product_image": "dettolHygieneLiquidLime200ML.jpeg",
+            "product_category": "DisinfectantLiquid",
+            "product_price": "92",
+            "product_description": "Dettol Hygiene Liquid is a versatile product for personal hygiene and has many uses for protecting your family from germs. The flavour of this Dettol Hygiene Liquid is lime and its capacity is 200 ML. The material of the body of the bottle is plastic. The quantity in one pack of Dettol Hygiene Liquid is 48. This is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "14",
+            "product_id": "aee67a0e-454f-11ec-85a8-acde48001122",
+            "product_name": "Commode Wheel Chair",
+            "product_image": "commodeWheelChair.jpeg",
+            "product_category": "CommodeWheelChair",
+            "product_price": "6000",
+            "product_description": "Commode wheel chairs are portable toilets, designed to be placed at the bedside of a disabled individual whose activity is very limited. They typically consist of a frame and a waste receptacle that can be easily removed and emptied. This Commode Wheel Chair is a manual type wheel chair with automation grade A. The model number of this Commode Wheel Chair is 1009 and the weight capacity of this product is upto 250LBS(113.4 kg). This is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "15",
+            "product_id": "7cb3abdc-4550-11ec-85a8-acde48001122",
+            "product_name": "Surgical Gown",
+            "product_image": "surgicalGown.jpeg",
+            "product_category": "MedicalSurgicalGown",
+            "product_price": "0",
+            "product_description": "Non-woven Fabric for Sterile disposable surgical gown with gloves. Gown Closure Style: Adjustable Hook-and-loop Neckline Closure. S, M, L, XL, as request. The material of this Surgical Gown is a Mix of Polyester & Cotton. This is a stitched product and the protection level is Fully Impervious. All the size and color are available for this Surgical Gown. This is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "16",
+            "product_id": "3f663f46-4551-11ec-85a8-acde48001122",
+            "product_name": "Dettol Hand Wash",
+            "product_image": "dettolHandWash.jpeg",
+            "product_category": "DettolLiquidHandWash",
+            "product_price": "0",
+            "product_description": "Dettol Brand Hand Wash provides soft and rich lather, leaving behind clean hands and mild pine fragrance. The trusted germ-protection modus operandi acts like a barrier between your hands and a wide range of unseen germs. Dettol Hand Wash also contains more than 85% naturally derived ingredients with no TCC & Triclosan, giving another healthy reason for hand washing whenever in need. Wash hands properly with Dettol and help keep your family healthy!",
+            "product_brochure": null
+        },
+        {
+            "sno": "17",
+            "product_id": "3f66772c-4551-11ec-85a8-acde48001122",
+            "product_name": "Savlon Handwash Refile 750 ML",
+            "product_image": "savlonHandwashRefile750ML.jpeg",
+            "product_category": "DettolLiquidHandWash",
+            "product_price": "84",
+            "product_description": "Savlon Brand Handwash provides effective cleansing and protects you and your family from a million germs. Savlon Handwash also protects against the H1N1 virus, Rotavirus, Stomach Flu & Flu virus. It is dermatologically tested and is suitable for all skin types. The packaging type of this product is Refile Pack and the packaging size of for the same is 750 ML. This is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "18",
+            "product_id": "94f0502c-4552-11ec-85a8-acde48001122",
+            "product_name": "ECG Electrode",
+            "product_image": "ECGElectrode.jpeg",
+            "product_category": "EcgElectrodeBelts",
+            "product_price": "3",
+            "product_description": "An electrode is a conductive pad that is attached to the skin and enables recording of electrical currents. An ECG Electrode is a graphical description of the electrical activity of the heart and it is created by analysing several electrodes. The size of the electrode is square. The model number\/name of this ECG Electrode is NO-06. This product can be used in ECG machines and this is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "19",
+            "product_id": "782b4ef0-4553-11ec-85a8-acde48001122",
+            "product_name": "Hospital Semi Fowler Bed ( Laminated Panels)",
+            "product_image": "Hospital Semi Fowler Bed ( Laminated Panels).jpeg",
+            "product_category": "HospitalFurniture",
+            "product_price": "11000",
+            "product_description": "Hospital Semi Fowler Bed ( Laminated Panels)",
+            "product_brochure": null
+        },
+        {
+            "sno": "20",
+            "product_id": "782b5382-4553-11ec-85a8-acde48001122",
+            "product_name": "ICU Bed Mechanical ( Plain) ( ABS Panel)",
+            "product_image": "ICU Bed Mechanical ( Plain) ( ABS Panel).jpeg",
+            "product_category": "HospitalFurniture",
+            "product_price": "26500",
+            "product_description": "ICU Beds are special hospital beds designed for ICUs to take care of critical patients. ICU beds, provide both safety and comfort to the patients and caregivers alike. An ICU bed is a specially designed bed for the patients under the intensive care unit. This is a plain mechanical ICU bed. This ICU Bed has abs panels and abs railing swing type.",
+            "product_brochure": null
+        },
+        {
+            "sno": "21",
+            "product_id": "04cf322c-4554-11ec-85a8-acde48001122",
+            "product_name": "JK Copier Paper A4",
+            "product_image": "JK Copier Paper A4.jpeg",
+            "product_category": "CopierPaper",
+            "product_price": "175",
+            "product_description": "JK Brand Copier Paper is the most commonly used type of printer paper; the stuff you purchase in large packs and stockpile beside your printer. The grams per square meter of this product is 75.0g\/m2 and the size is A4. The color of this copier papers is white and the number of sheets per pack in this product is 500.",
+            "product_brochure": null
+        },
+        {
+            "sno": "22",
+            "product_id": "7705996c-4554-11ec-85a8-acde48001122",
+            "product_name": "Spin Board Stretcher",
+            "product_image": "Spin Board Stretcher.jpeg",
+            "product_category": "Stretcher",
+            "product_price": "5500",
+            "product_description": "Spin Board Stretcher is designed to provide rigid support during movement of a person with suspected spinal or limb injuries. The size of this Spin Board Stretcher in terms of length x breadth x height is 184 x 45 x 7 in cms. The weight of this Spin Board Stretcher is 7.5 kg and its colour is orange. The load weight for this Spin Board Stretcher is 150 kg. The port of dispatch for Spin Board Stretcher is New Delhi.",
+            "product_brochure": null
+        },
+        {
+            "sno": "23",
+            "product_id": "7705c3e2-4554-11ec-85a8-acde48001122",
+            "product_name": "Auto Loading Stretcher",
+            "product_image": "Auto Loading Stretcher.jpeg",
+            "product_category": "Stretcher",
+            "product_price": "25500",
+            "product_description": "Automatic Loading Stretcher is easy to load and unload from emergency vehicle without lifting. The size of this Auto Loading Stretcher in terms of length x breadth x height is 190 x 54 x 90 in cms. The net weight of this Auto Loading Stretcher is 40 kgs and its colour is orange. The dimension of the packaging box in same terms as l x b x h is 200 x 65 x 110 in cms and the gross weight is 50 kgs. The port of dispatch for this product is New Delhi.\r\n",
+            "product_brochure": null
+        },
+        {
+            "sno": "24",
+            "product_id": "0f44fdbc-4555-11ec-85a8-acde48001122",
+            "product_name": "Hero Walker",
+            "product_image": "Hero Walker.jpg",
+            "product_category": "FoldingWalker",
+            "product_price": "1400",
+            "product_description": "This is a Mediva Band Hero Walker. A walker is a type of mobility aid used to help people who are still able to walk yet need some assistance. The Hero Walker is much loved by ILS customers for every day use. Hero Walker is ideal for both indoor and outdoor use. The material of this Hero Walker is steel. This is a height adjustable walker. The Hero Walker can be user anywhere.",
+            "product_brochure": null
+        },
+        {
+            "sno": "25",
+            "product_id": "0f454844-4555-11ec-85a8-acde48001122",
+            "product_name": "Hero Bronze Walker",
+            "product_image": "Hero Bronze Walker.jpg",
+            "product_category": "FoldingWalker",
+            "product_price": "1600",
+            "product_description": "Hero Bronze Walker is extremely lightweight, portable, and space-saving. You can also change from reciprocating walker to fixed walker or vice versa. Hero Bronze Walker has eight steps height adjustable property. Hero Bronze Walker has been designed keeping in mind the comfort of the user and are very easy to use.",
+            "product_brochure": null
+        },
+        {
+            "sno": "26",
+            "product_id": "9a73ee34-4555-11ec-85a8-acde48001122",
+            "product_name": "Savlon Hand Sanitizer 5 Litre",
+            "product_image": "Savlon Hand Sanitizer 5 Litre.jpeg",
+            "product_category": "HandSanitizer",
+            "product_price": "1800",
+            "product_description": "Savlon Brand hand sanitizer provides effective protection against 100 disease causing germs including bacteria, yeast, mould and viruses. The packaging type of this hand sanitizer is Jerrycan. The packaging size of this Savlon Hand Sanitizer is 5 Litre. The alcohol content in this hand sanitizer is 61 to 70 percent and type of alcohol is Isopropyl Alcohol. Other active ingredient in this Savlon Hand Sanitizer is Glycerol. This is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "27",
+            "product_id": "9a73f23a-4555-11ec-85a8-acde48001122",
+            "product_name": "Savlon Hand Sanitizer 500 ML",
+            "product_image": "Savlon Hand Sanitizer 500 ML.jpeg",
+            "product_category": "HandSanitizer",
+            "product_price": "200",
+            "product_description": "Savlon Brand based hand sanitizer provides effective protection against 100 disease causing germs including bacteria, yeast, mould and viruses. The packaging type of this hand sanitizer is 500 ML. The alcohol content in this Savlon Hand Sanitizer is 61 to 70 percent. Other active ingredient in this Savlon Hand Sanitizer is Glycerol. This is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "28",
+            "product_id": "ab137bf0-4556-11ec-85a8-acde48001122",
+            "product_name": "3 Fold Traction Tables",
+            "product_image": "3 Fold Traction Tables.jpeg",
+            "product_category": "TractionTable",
+            "product_price": "8500",
+            "product_description": "Owing to our rich experience and vast knowledge of this domain, we have been able offer premium quality 3 Fold Traction Bed. The height of this 3 Fold Traction Table is 2.5 feet. The weight of this 3 Fold Traction Tables is upto 70 kg. The body material of this 3 Fold Traction Tables is stainless steel. This 3 Fold Traction Table can be used at hospitals or clinics.",
+            "product_brochure": null
+        },
+        {
+            "sno": "29",
+            "product_id": "ab13a9ae-4556-11ec-85a8-acde48001122",
+            "product_name": "Traction Machine With Table",
+            "product_image": "Traction Machine With Table.jpeg",
+            "product_category": "TractionTable",
+            "product_price": "18000",
+            "product_description": "This product is used for traction in neck. Traction machine is use used to relieve pain and restore muscle function by mobilizing muscles, ligaments and joints. The shape of this Traction Machine With Table is rectangle shape. The material of this Traction Machine With Table is iron. This Traction Machine With Table can be used at hospitals or clinics. Thee color of the machine is white and the weight is 2 kg.",
+            "product_brochure": null
+        },
+        {
+            "sno": "30",
+            "product_id": "ab13ac2e-4556-11ec-85a8-acde48001122",
+            "product_name": "Traction Table 4 FOLD",
+            "product_image": "Traction Table 4 FOLD.jpeg",
+            "product_category": "TractionTable",
+            "product_price": "12000",
+            "product_description": "Traction Table is used in chiropractic care to manipulate the spine and restore the body to proper ranges of motion. Remaining in tandem with the industry set guidelines, we are engrossed in offering premium grade Traction Table. The length, breadth and height of this Traction table are 6 feet, 2 feet and 2 feet respectively. The material of this product is iron.",
+            "product_brochure": null
+        },
+        {
+            "sno": "31",
+            "product_id": "79eb5be6-4557-11ec-85a8-acde48001122",
+            "product_name": "Savlon Moisture Shield Handwash 200 ML",
+            "product_image": "Savlon Moisture Shield Handwash 200 ML.jpeg",
+            "product_category": "HandWash",
+            "product_price": "61",
+            "product_description": "Savlon Brand based moisture shield handwash helps in breaking the chain of infection that protects from a million germs. It Protects from the H1N1 virus, Rotavirus, Stomach Flu & Flu virus. This handwash leaves you with soft, supple, and clean hands. It also has moisturising benefits. The packaging type of this product is pump pack. The packaging size of this product is 200 ML. This is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "32",
+            "product_id": "79ebef2a-4557-11ec-85a8-acde48001122",
+            "product_name": "Savlon Handwash 5ltr",
+            "product_image": "Savlon Handwash 5ltr.jpeg",
+            "product_category": "HandWash",
+            "product_price": "750",
+            "product_description": "Savlon Brand based Handwash provides effective cleansing and protects you and your family from a million germs. Savlon Handwash also protects against the H1N1 virus, Rotavirus, Stomach Flu & Flu virus. It is dermatologically tested and is suitable for all skin types. The packaging type of this product is can. The packaging size available for this type of product are 200ML, 175ML, 750ML and 5 LTR. The shelf life for this product is 2 years. This is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "33",
+            "product_id": "79ebf074-4557-11ec-85a8-acde48001122",
+            "product_name": "Savlon Hand Wash 500 ML",
+            "product_image": "Savlon Hand Wash 500 Ml.jpeg",
+            "product_category": "HandWash",
+            "product_price": "115",
+            "product_description": "Savlon Brand based Handwash provides effective cleansing and protects you and your family from a million germs. Savlon Handwash also protects against the H1N1 virus, Rotavirus, Stomach Flu & Flu virus. It is dermatologically tested and is suitable for all skin types. The packaging size of this hand wash is 500 ML. This is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "34",
+            "product_id": "a6dd1304-4559-11ec-85a8-acde48001122",
+            "product_name": "Compression Therapy Unit",
+            "product_image": "Compression Therapy Unit.jpeg",
+            "product_category": "TherapyUnit",
+            "product_price": "18999",
+            "product_description": "Compression therapy uses controlled pressure to increase blood flow in your legs and improve blood flow to the heart. At the same time, it supports your veins and decreases swelling. The power output of this Compression Therapy Unit is 250Watt of RF. The operation mode of Compression Therapy Unit is electrical.",
+            "product_brochure": null
+        },
+        {
+            "sno": "35",
+            "product_id": "a6dd4022-4559-11ec-85a8-acde48001122",
+            "product_name": "Compression Therapy Unit",
+            "product_image": "CompressionTherapyUnit.jpeg",
+            "product_category": "TherapyUnit",
+            "product_price": "22000",
+            "product_description": "The Compression Therapy Unit, which we present to our clients is comprehensive of high quality and is widely acknowledged in the market due to their affordable pricing. The body material of this Compression Therapy Unit is stainless steel. The input voltage of this Compression Therapy Unit is in range of 90V to 270V and its operating frequency is 50Hz. This product can be used at hospitals or clinics.",
+            "product_brochure": null
+        },
+        {
+            "sno": "36",
+            "product_id": "a6dd4202-4559-11ec-85a8-acde48001122",
+            "product_name": "Physiotherpy IFT Unit",
+            "product_image": "Physiotherpy IFT Unit.jpeg",
+            "product_category": "TherapyUnit",
+            "product_price": "3500",
+            "product_description": "Physiotherapy IFT Equipment transmits a continuous stimulation deep into the affected tissue thereby blocking the pain signals and reducing swelling and inflammation which causes pain. Physiotherapy IFT Unit is basically used for pain relief. The material of this Physiotherapy IFT Unit is iron. The type of this product is exercise equipment and the shape of this product is rectangular. This is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "37",
+            "product_id": "a6dd42d4-4559-11ec-85a8-acde48001122",
+            "product_name": "EMG Biofeedback Unit",
+            "product_image": "EMG Biofeedback Unit.jpeg",
+            "product_category": "TherapyUnit",
+            "product_price": "210000",
+            "product_description": "Electromyographic (EMG) Biofeedback Equipment is used for controlling ongoing contraction and relaxation patterns. The equipment has been developed as per the international quality and norms. EMG Biofeedback Equipment monitors and displays ongoing contraction and relaxation patterns generated in skeletal muscles. It highlights awareness of the mechanism of muscle flexure and develops voluntary control over dysfunctional, semi voluntary or involuntary muscle activity.",
+            "product_brochure": null
+        },
+        {
+            "sno": "38",
+            "product_id": "cfe94e38-455a-11ec-85a8-acde48001122",
+            "product_name": "Massager Machine",
+            "product_image": "Massager Machine.jpeg",
+            "product_category": "RehabilitationEquipments",
+            "product_price": "15000",
+            "product_description": "Backed by a spacious infrastructure facility, our company brings forth Massager Machine which is engineered as per international quality norms and standards. Massagers are compact and handy tools that help you achieve a relaxing massage in the comfort of your home. They can help provide you with a variety of benefits for health-related purposes. The height of this massager machine is 3 feet. The body material of this massager machine is of steel.",
+            "product_brochure": null
+        },
+        {
+            "sno": "39",
+            "product_id": "cfe95496-455a-11ec-85a8-acde48001122",
+            "product_name": "Wax Bath Machine",
+            "product_image": "Wax Bath Machine.jpeg",
+            "product_category": "RehabilitationEquipments",
+            "product_price": "8500",
+            "product_description": "With prosperous industry practice, we are known to offer Wax Bath Machine. It is made by experts using the advanced technology. Wax bath therapy is intended to moisturise, soften the skin, improve blood circulation and reduce pain of joints. The power supply for this Wax Bath machine is 220V. The body material of this Wax Bath Machine is of steel.",
+            "product_brochure": null
+        },
+        {
+            "sno": "40",
+            "product_id": "cfe95554-455a-11ec-85a8-acde48001122",
+            "product_name": "Cupping Therapy",
+            "product_image": "Cupping Therapy.jpeg",
+            "product_category": "RehabilitationEquipments",
+            "product_price": "2500",
+            "product_description": "Cupping therapy is an ancient form of alternative medicine in which a therapist puts special cups on your skin for a few minutes to create suction. People get it for many purposes, including to help with pain, inflammation, blood flow, relaxation and well-being, and as a type of deep-tissue massage. Cupping therapy might be trendy now, but it’s not new. It dates back to ancient Egyptian, Chinese, and Middle Eastern cultures.",
+            "product_brochure": null
+        },
+        {
+            "sno": "41",
+            "product_id": "cfe955cc-455a-11ec-85a8-acde48001122",
+            "product_name": "Shoulder Pulley",
+            "product_image": "Shoulder Pulley.jpeg",
+            "product_category": "RehabilitationEquipments",
+            "product_price": "600",
+            "product_description": "The shoulder pulley is an apparatus that's hooked over the top of a door, with a small pulley system near the top, and a rope with handles that hangs down from the pulley. You can use the pulleys to perform various shoulder exercises to help improve ROM in different directions in your shoulder. Shoulder pulleys are an excellent way to improve rotator cuff and shoulder range of motion after injury or surgery.",
+            "product_brochure": null
+        },
+        {
+            "sno": "42",
+            "product_id": "cfe95644-455a-11ec-85a8-acde48001122",
+            "product_name": "CP Walker",
+            "product_image": "CP Walker.jpeg",
+            "product_category": "RehabilitationEquipments",
+            "product_price": "3500",
+            "product_description": "CP walker comes in sturdy construction finish so as to provide for optimum functional support in physiotherapy sessions and for Comfy Usage, these walkers come supported by wider supporting legs, gripped handles, adjustable knobs and other supports for Comfy Walking. Some of Its features include function as support for disabled to gain walking practice; sturdy construction finish for lasting usage. These walkers have four posts with Wheels on each. They can help children who have issues with Balance and posture.",
+            "product_brochure": null
+        },
+        {
+            "sno": "43",
+            "product_id": "24575986-455d-11ec-85a8-acde48001122",
+            "product_name": "Survive Spin Bike",
+            "product_image": "Survive Spin Bike.jpeg",
+            "product_category": "ExerciseItems",
+            "product_price": "48000",
+            "product_description": "A spin bike is a stationary bike found mostly in gyms and training centers. It is said to provide a full-body workout and is very effective at strengthening the hips, thighs, calves, abs, and shoulders. The color of this bicycle is red and black. The max user weight this product can handle is 200kg and the weight of wheel is 25 kg. The overall weight of this product is 67 kg.",
+            "product_brochure": null
+        },
+        {
+            "sno": "44",
+            "product_id": "245774fc-455d-11ec-85a8-acde48001122",
+            "product_name": "Treadmill",
+            "product_image": "Treadmill.jpeg",
+            "product_category": "ExerciseItems",
+            "product_price": "16500",
+            "product_description": "A Treadmill is a machine with a moving strip on which one walks without moving forward. This is Body Gym 168i Treadmill. The motor power of this treadmill is 1.5HP. The belt size of this treadmill is 13\" x 46\" inches. The max user weight that this treadmill can handle is 95kg. The speed of this treadmill of this ranges between 1 to 6 km\/hr. This treadmill has a display which shows speed, distance, time, calories. This treadmill has a deck cushion. This is an electrically programmed machine.",
+            "product_brochure": null
+        },
+        {
+            "sno": "45",
+            "product_id": "2457c1dc-455d-11ec-85a8-acde48001122",
+            "product_name": "Static Bike Upright",
+            "product_image": "Static Bike Upright.jpeg",
+            "product_category": "ExerciseItems",
+            "product_price": "15000",
+            "product_description": "A static bicycle is a device used as exercise equipment for indoor cycling. The model number for this upright bike is 796 and the type of this bicycle is upright.",
+            "product_brochure": null
+        },
+        {
+            "sno": "46",
+            "product_id": "2457c39e-455d-11ec-85a8-acde48001122",
+            "product_name": "Trampoline",
+            "product_image": "Trampoline.jpeg",
+            "product_category": "ExerciseItems",
+            "product_price": "16500",
+            "product_description": "Trampoline, an elevated resilient webbed bed or canvas sheet supported by springs in a metal frame and used as a springboard for tumbling. Trampolining, or rebound tumbling, is an individual sport of acrobatic movements performed after rebounding into the air from the trampoline. This product can be used at gym, for household purposes or at offices.",
+            "product_brochure": null
+        },
+        {
+            "sno": "47",
+            "product_id": "2457c466-455d-11ec-85a8-acde48001122",
+            "product_name": "Treadmill-900",
+            "product_image": "Treadmill-900.jpeg",
+            "product_category": "ExerciseItems",
+            "product_price": "20000",
+            "product_description": "A treadmill is a machine with a moving strip on which one walks without moving forward. The model number of this product is Body Gym 168i. This is an electrically programmed machine. The motor power of Treadmill-900 is 1.5HP and the motor type is AC. The belt size of this product is 13\" x 46\" inches. The max user weight that this treadmill can handle is 95 kg. The speed of this treadmill varies between 1km\/hr to 6km\/hr. This treadmill has a display that can show speed, distance, time, calories. This product has a deck cushion.",
+            "product_brochure": null
+        },
+        {
+            "sno": "48",
+            "product_id": "2457c51a-455d-11ec-85a8-acde48001122",
+            "product_name": "Wrist Exerciser",
+            "product_image": "Wrist Exerciser.jpeg",
+            "product_category": "ExerciseItems",
+            "product_price": "550",
+            "product_description": "Strengthen your wrists and develop powerful forearms with this great piece of exercise equipment – the Wrist Exerciser.This Wrist Exerciser has a heavy duty steel spring and foam stabilizer pad targets your wrist and forearm muscles. Wrist Exerciser helps in building flexor and extensor muscles and also help you to improve your grip strength.",
+            "product_brochure": null
+        },
+        {
+            "sno": "49",
+            "product_id": "2457c5c4-455d-11ec-85a8-acde48001122",
+            "product_name": "Static Cycle With Back Rest",
+            "product_image": "Static Cycle With Back Rest.jpeg",
+            "product_category": "ExerciseItems",
+            "product_price": "8500",
+            "product_description": "A static or stationary bicycle is a device used as exercise equipment for indoor cycling. This is Body Gym Air Bike. It has an adjustable PU seat. This product has a computer meter that shows speed, distance, time, calories. It has a tension controller that helps to control level of resistance. This product has an ultra modern design and use latest technology of exercise. This product also enables exercise with hand movement and helps in complete exercise of body.",
+            "product_brochure": null
+        },
+        {
+            "sno": "50",
+            "product_id": "2457c66e-455d-11ec-85a8-acde48001122",
+            "product_name": "Shoulder Wheel 360 Degree",
+            "product_image": "Shoulder Wheel 360 Degree.jpeg",
+            "product_category": "ExerciseItems",
+            "product_price": "10500",
+            "product_description": "Shoulder pain is an extremely common complaint among the general population, representing the fourth most frequent musculoskeletal problem reported by sufferers. Rehabilitation is the key to returning the shoulder to its original state, which is typically accomplished through simple exercises. The Shoulder Wheel is just such a mechanism – it allows patients to perform resistance exercises to improve range of motion and relieve pain. This shoulder wheel has rotation angle of 360 degree.",
+            "product_brochure": null
+        },
+        {
+            "sno": "51",
+            "product_id": "c4a30322-4567-11ec-85a8-acde48001122",
+            "product_name": "Quadriceps Table",
+            "product_image": "Quadriceps Table.jpeg",
+            "product_category": "RehabilitationItems",
+            "product_price": "9500",
+            "product_description": "Known as a renowned organization, we are engaged in offering precisely designed and developed Quadriceps Table. The Quadriceps Table is designed with Backrest for effective administration of progressive resistance exercises to the Knee joints muscle groups. The size of this Quadriceps Table is 950mm x 715mm x 1370mm. The base material of this Quadriceps Table is iron.",
+            "product_brochure": null
+        },
+        {
+            "sno": "52",
+            "product_id": "c4a32000-4567-11ec-85a8-acde48001122",
+            "product_name": "Shoulder Arc (Zig-Zag Type)",
+            "product_image": "Shoulder Arc (Zig-Zag Type).jpeg",
+            "product_category": "RehabilitationItems",
+            "product_price": "10000",
+            "product_description": "The Shoulder Arc Range of Motion Equipment is designed to improve movement and range of motion (ROM) for the user's shoulder and Shoulder Arc Range of Motion Equipment is an active-assist range of motion (AAROM) device to provide partial assistance to the patient during rehabilitation exercises. The shoulder arc provides customized rehabilitation programming for users. This is a Zig-Zag type Shoulder Arc. This product can be used at hospitals or clinics.",
+            "product_brochure": null
+        },
+        {
+            "sno": "53",
+            "product_id": "c4a321a4-4567-11ec-85a8-acde48001122",
+            "product_name": "Medicine Ball With Stand",
+            "product_image": "Medicine Ball With Stand.jpeg",
+            "product_category": "RehabilitationItems",
+            "product_price": "6500",
+            "product_description": "A Medicine Ball (also known as an exercise ball, a med ball, or a fitness ball) is a weighted ball often used for rehabilitation and strength training. A medicine ball is commonly used to build core strength, which means building muscles in your abdomen and back. This helps with balance, posture, and overall wellness through proper alignment.",
+            "product_brochure": null
+        },
+        {
+            "sno": "54",
+            "product_id": "c4a32258-4567-11ec-85a8-acde48001122",
+            "product_name": "Motorised Tilt Table",
+            "product_image": "Motorised Tilit Table.jpeg",
+            "product_category": "RehabilitationItems",
+            "product_price": "35000",
+            "product_description": "Motorised Tilt Table",
+            "product_brochure": null
+        },
+        {
+            "sno": "55",
+            "product_id": "c4a32316-4567-11ec-85a8-acde48001122",
+            "product_name": "Thera Band",
+            "product_image": "Thera Band.jpeg",
+            "product_category": "RehabilitationItems",
+            "product_price": "200",
+            "product_description": "Thera Band is a thin ribbon of stretchy material, which comes in a variety of colours. Used as accessories for various different exercise moves, they enable you to add light resistance in a controlled manner and they’re really fun to use, too. These perfectly portable stretch marvels enable you to do low-impact strength training through lots of different exercises, and have been used for decades by physios and their athletes.",
+            "product_brochure": null
+        },
+        {
+            "sno": "56",
+            "product_id": "c4a323ca-4567-11ec-85a8-acde48001122",
+            "product_name": "Hand Gym Board",
+            "product_image": "Hand Gym Board.jpeg",
+            "product_category": "RehabilitationItems",
+            "product_price": "2200",
+            "product_description": "Hand Gym Board",
+            "product_brochure": null
+        },
+        {
+            "sno": "57",
+            "product_id": "c4a32474-4567-11ec-85a8-acde48001122",
+            "product_name": "Staircase",
+            "product_image": "Staircase.jpeg",
+            "product_category": "RehabilitationItems",
+            "product_price": "18000",
+            "product_description": "The StairCase rehabilitation program makes use of a system consisting of a set of raised platforms and staircases. StairCase Exerciser is basically used in gyms, health centres and can also be used at homes for personal use. Staircase are best to climb and downhill the stairs at a particular place.",
+            "product_brochure": null
+        },
+        {
+            "sno": "58",
+            "product_id": "c4a325f0-4567-11ec-85a8-acde48001122",
+            "product_name": "Hand Held Dyamanometer",
+            "product_image": "Hand Held Dyamanometer.jpeg",
+            "product_category": "RehabilitationItems",
+            "product_price": "28000",
+            "product_description": "Hand Held Dynamometer is a sensitive, objective, and affordable option to measure strength. It is a small device that the examiner holds against the patient's limb as the patient exerts a maximal force. The examiner counters the force (make test), or tries to break the contraction (break test). Hand Held Dynamometer takes the force a patient generates and transmits it through a transducer, quantifies the force, and then presents the data in a digital format.",
+            "product_brochure": null
+        },
+        {
+            "sno": "59",
+            "product_id": "c4a326a4-4567-11ec-85a8-acde48001122",
+            "product_name": "Thera Tube",
+            "product_image": "Thera Tube.jpeg",
+            "product_category": "RehabilitationItems",
+            "product_price": "450",
+            "product_description": "Thera Tube are thick elastic bands that provide a way to strengthen muscles at home. By using the resistance that Thera Tube provide, muscles can be strengthened easily. Thera Tube resistance bands are made of latex rubber, but there are non-latex varieties available for those people who are allergic to latex.",
+            "product_brochure": null
+        },
+        {
+            "sno": "60",
+            "product_id": "c4a32758-4567-11ec-85a8-acde48001122",
+            "product_name": "Peg Board Round",
+            "product_image": "Peg Board Round.jpeg",
+            "product_category": "RehabilitationItems",
+            "product_price": "2000",
+            "product_description": "The Pegboard with Round Pegs is an educational tool for toddlers and children to enhance their fine motor coordination, hand-eye coordination, grasping skills, concentration, math skills, and their understanding of verbal directions. The latex-free pegboard and pegs will provide hours of fun challenges for most toddlers and generate all types of therapeutic games. The pegboard and pegs are lightweight. This product can be used at hospitals or clinics or for personal use.",
+            "product_brochure": null
+        },
+        {
+            "sno": "61",
+            "product_id": "1d7116d0-456b-11ec-85a8-acde48001122",
+            "product_name": "Lazer Pain Relief Machine",
+            "product_image": "Lazer Pain Relief Machine.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "30000",
+            "product_description": "We are a foremost organization for providing a diverse grade of Pain Relief Machine to our valued customers. We offer this at nominal costs. The frequency of Lazer Pain Relief Machine is between 1Hz to 3500Hz and the energy is between 120MJ to 4500MJ and the power is 500W. This product is of class 3B and the material of its body is of steel. Lazer Pain Relief Machine can be used at hospitals or at clinics.",
+            "product_brochure": null
+        },
+        {
+            "sno": "62",
+            "product_id": "1d71323c-456b-11ec-85a8-acde48001122",
+            "product_name": "Short Wave Diathermy 500 Watt Bulb",
+            "product_image": "Short Wave Diathermy 500 Watt Bulb.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "26999",
+            "product_description": "We offer an extensive range of Short Wave Diathermy to our customers. These are developed using the premium quality material and advanced technology. The operating frequency of Short Wave Diathermy 500 Watt Bulb is 6Amp and the power is 500 Watt as of bulb. Short Wave Diathermy 500 Watt Bulb can be used at hospitals or clinics.",
+            "product_brochure": null
+        },
+        {
+            "sno": "63",
+            "product_id": "1d713426-456b-11ec-85a8-acde48001122",
+            "product_name": "Multifunction Therapy Unit (LCD MODEL)",
+            "product_image": "Multifunction Therapy Unit (LCD MODEL).jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "10000",
+            "product_description": "Multifunction Therapy Unit (LCD MODEL) has an operating frequency between 50Hz and input voltage is between 90V to 270V. This product has duals channels. The type of this product is both portable and conventional. The intensity is between 1mA to 99mA and protocoals is 125 and the timer ranges from 1 to 99 min.",
+            "product_brochure": null
+        },
+        {
+            "sno": "64",
+            "product_id": "1d7134c6-456b-11ec-85a8-acde48001122",
+            "product_name": "Computerised IFT 29 Program",
+            "product_image": "Computerised Ift 29 Program.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "10000",
+            "product_description": "Keeping track of contemporary market development, we are devotedly occupied in providing an extensive series of Computerised IFT Programming Machine. The features of this machine is automatic and digital. It is a dual channel machine and it is a conventional type. The. body material of this product is of steel.",
+            "product_brochure": null
+        },
+        {
+            "sno": "65",
+            "product_id": "1d71353e-456b-11ec-85a8-acde48001122",
+            "product_name": "IMPACT IFT MINI",
+            "product_image": "IMPACT IFT MINI.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "4500",
+            "product_description": "We are foremost organization, actively occupied in providing a wide of Impact IFT Programming Machine that meet on customer’s demand. This machine provides stimulation to the affected area and does not harm the body like painkillers. The feature of this machine is digital. Impact IFT Mini is a portable type machine and it has dual channels. The body type material of this product is of steel.",
+            "product_brochure": null
+        },
+        {
+            "sno": "66",
+            "product_id": "1d713610-456b-11ec-85a8-acde48001122",
+            "product_name": "Short Wave Diathermy 500 Watt Solid State",
+            "product_image": "Short Wave Diathermy 500 Watt Solid State.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "25000",
+            "product_description": "Short Wave Diathermy 500 Watt Solid State",
+            "product_brochure": null
+        },
+        {
+            "sno": "67",
+            "product_id": "1d7136c4-456b-11ec-85a8-acde48001122",
+            "product_name": "Digital Muscle Stimulator",
+            "product_image": "Digital Muscle Stimulator.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "5000",
+            "product_description": "We offer the top range of Digital Muscle Stimulator for our valued patrons. These products are used in numerous purposes in the market. The operating current of Digital Muscle Stimulator is 2Amp and the power is 12V. The model of Digital Muscle Stimulator is sp006 and channel is 4. The body material of this product is of steel.",
+            "product_brochure": null
+        },
+        {
+            "sno": "68",
+            "product_id": "1d71376e-456b-11ec-85a8-acde48001122",
+            "product_name": "Programic Muscle Stimulator",
+            "product_image": "Programic Muscle Stimulator.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "6500",
+            "product_description": "Backed by a team of knowledgeable professionals, we are an identified firm in the market for providing an extensive range of Programic Muscle Stimulator. The operating frequency of Programic Muscle Stimulator is 50Hz and input voltage is 220VAC and the channels are 2. The body material of this product is of steel. This product can be used at hospitals or clinics.\r\n",
+            "product_brochure": null
+        },
+        {
+            "sno": "69",
+            "product_id": "1d71382c-456b-11ec-85a8-acde48001122",
+            "product_name": "Mini Muscle Stimulator",
+            "product_image": "Mini Muscle Stimulator.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "1200",
+            "product_description": "Backed with support of experts, we are occupied in providing a flawless series of Mini Muscle Stimulator to valuable customers. The operating frequency of Mini Muscle Stimulator is 50Hz and input voltage is 220VAC and the channels are 2. The body material of this product is of steel. This product can be used at hospitals or clinics or for personal use.\r\n",
+            "product_brochure": null
+        },
+        {
+            "sno": "70",
+            "product_id": "1d7138ea-456b-11ec-85a8-acde48001122",
+            "product_name": "LCD Combination Muscle Stimulator With Tens",
+            "product_image": "LCD Combination Muscle Stimulator With Tens.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "7000",
+            "product_description": "By keeping track with the modern trends, we are bringing forward a wide series of LCD Combination Muscle Stimulator With Tens to our valued patrons. The operating frequency of LCD Combination Muscle Stimulator With Tens is 50Hz and input voltage is 220VAC and the channels are 4. The body material of this product is of steel. This product can be used at hospitals.",
+            "product_brochure": null
+        },
+        {
+            "sno": "71",
+            "product_id": "1d713994-456b-11ec-85a8-acde48001122",
+            "product_name": "Laser Pain Relief Machine",
+            "product_image": "Laser Pain Relief Machine.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "28000",
+            "product_description": "We are the leading organization actively occupied in providing an extensive series of Laser Pain Relief Machine. The frequency of Laser Pain Relief Machine ranges between 1Hz to 3500Hz and energy is 120MJ to 4500MJ and the power is 500W. The body material of this product is of steel and this product is of class 3B. This product can be used at hospitals or clinics.",
+            "product_brochure": null
+        },
+        {
+            "sno": "72",
+            "product_id": "1d713a3e-456b-11ec-85a8-acde48001122",
+            "product_name": "Deep Heat Therapy Unit",
+            "product_image": "Deep Heat Therapy Unit.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "12000",
+            "product_description": "The operating frequency of Deep Heat Therapy Unit is 50Hz and power supply is 220VAC and the power source for this device is electricity. The temperature control for Deep Heat Therapy Unit is 0 to 100 degree celsius (thermostatic).  The body material of this product is of steel. This product can be used at hospitals or clinics.",
+            "product_brochure": null
+        },
+        {
+            "sno": "73",
+            "product_id": "1d713ae8-456b-11ec-85a8-acde48001122",
+            "product_name": "Long Wave Diathermy",
+            "product_image": "Long Wave Diathermy.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "30000",
+            "product_description": "We are presenting quality assured series of Long Wave Diathermy. In addition, we present these products at reasonable prices to our customers. The wave length of this Long Wave Diathermy is 300m. The power supply of this Long Wave Diathermy is 220V. The body material of this Long Wave Diathermy is of steel. This Long Wave Diathermy can be used at clinics or at hospitals.",
+            "product_brochure": null
+        },
+        {
+            "sno": "74",
+            "product_id": "1d713b92-456b-11ec-85a8-acde48001122",
+            "product_name": "Pocket Ultrasonic",
+            "product_image": "Pocket Ultrasonic.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "2700",
+            "product_description": "Due to rich industry skill and experience, we have been accomplished to provide our valued customers the best quality range of Pocket Ultrasonic. The weight of the Pocket Ultrasonic is 2.1 kg. The height of the Pocket Ultrasonic is 5.5m. The voltage of Pocket Ultrasonic ranges between 100 to 260VAC.",
+            "product_brochure": null
+        },
+        {
+            "sno": "75",
+            "product_id": "1d713c3c-456b-11ec-85a8-acde48001122",
+            "product_name": "5 In 1 Combination Therapy Unit",
+            "product_image": "5 In 1 Combination Therapy Unit.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "15000",
+            "product_description": "As per the increasing and altering demands of our valued customers, we offer an innovatively developed 5 In 1 Combination Therapy Unit. Combination of 5 is IFT + TENS + US + MS + Deep Heat. The body type material of 5 In 1 Combination Therapy Unit is steel. The operating frequency is 50Hz and the power supply is 220V.\r\n",
+            "product_brochure": null
+        },
+        {
+            "sno": "76",
+            "product_id": "1d717cb0-456b-11ec-85a8-acde48001122",
+            "product_name": "Combination Therapy 4 IN 1",
+            "product_image": "Combination Therapy 4 IN 1.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "10000",
+            "product_description": "As per the increasing and altering demands of our valued customers, we offer an innovatively developed 4 In 1 Combination Therapy Unit. The combination of 4 in Combination Therapy 4 IN 1 includes IFT + TENS + US + MS. This product, Combination Therapy 4 IN 1 can be used at clinics or  hospitals or at homes.",
+            "product_brochure": null
+        },
+        {
+            "sno": "77",
+            "product_id": "1d717e54-456b-11ec-85a8-acde48001122",
+            "product_name": "3 In 1 Combination Therapy Unit",
+            "product_image": "3 In 1 Combination Therapy Unit.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "10000",
+            "product_description": "Owing to our extreme prowess in the domain, we are developing premium grade3 In 1 Combination Therapy Unit. 3 In 1 Combination Therapy Unit includes IFT + TENS + US. The operating frequency of 3 In 1 Combination Therapy Unit is 50 Hz and the power supply is 220V. 3 In 1 Combination Therapy Unit can be used at Hospitals or clinics or for personal use.",
+            "product_brochure": null
+        },
+        {
+            "sno": "78",
+            "product_id": "1d717f26-456b-11ec-85a8-acde48001122",
+            "product_name": "LCD Traction Machine",
+            "product_image": "LCD Traction Machine.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "15500",
+            "product_description": "LCD Traction Machine is used for neck traction and cervical traction. LCD Traction Machine is used to treat Lumber Problems and Cervical Disorders. The use of spinal traction is to obtain pain relief and functional improvement with proper positioning of the patient and the correct angle of full traction may be localized to a specific spinal area.",
+            "product_brochure": null
+        },
+        {
+            "sno": "79",
+            "product_id": "1d717fda-456b-11ec-85a8-acde48001122",
+            "product_name": "Cellulite Deep Heat Therapy",
+            "product_image": "Cellulite Deep Heat Therapy.jpeg",
+            "product_category": "ElectrotherapyEquipments",
+            "product_price": "9500",
+            "product_description": "Cellulite deep heat therapy unit is used for warming the muscles before using slimmer. Cellulite Deep Heat Therapy emits heat as pre selected temperatures to ensure penetration and effect on deep tissues. Cellulite deep heat therapy machine helps in burning the targeted cell fats in the body. There is different setting to match the different body areas, like abdomen, thighs and arms.",
+            "product_brochure": null
+        },
+        {
+            "sno": "80",
+            "product_id": "a7014d20-45f7-11ec-9c48-acde48001122",
+            "product_name": "Hand Sanitizer Alcoholic 75 Percent",
+            "product_image": "Hand Sanitizer Alcoholic 75 Percent.jpeg",
+            "product_category": "NewItems",
+            "product_price": "110",
+            "product_description": "Hand sanitizers are a type of disinfectant and antiseptic that is used to destroy microorganisms (pathogens) such as harmful viruses, fungi, and bacteria. Algard IP Ultra is WHO recommended IP Based Hand-rub for Fact Acting and Broad Spectrum. Effective against MRSA VRE. This product is  available in 500 ML Pack Size. The type of packaging of this product is 20 PC Per Box.",
+            "product_brochure": null
+        },
+        {
+            "sno": "81",
+            "product_id": "a7016ee0-45f7-11ec-9c48-acde48001122",
+            "product_name": "Ped-O-Cycle",
+            "product_image": "Ped-O-Cycle.jpeg",
+            "product_category": "NewItems",
+            "product_price": "8500",
+            "product_description": "Ped-O-Cycle can help to improve circulation and muscle strength and is ideal for those keen to exercise from the comfort of their own homes. used in Lower Limb Rehabilitation turns around and can thus help to improve blood circulation and muscle strength. It can be used to exercise your legs from a seated position or lying down, or on a table for arm exercises. This can be used at hospital, at home or at clinics.",
+            "product_brochure": null
+        },
+        {
+            "sno": "82",
+            "product_id": "a7016fe4-45f7-11ec-9c48-acde48001122",
+            "product_name": "ECG Rolls",
+            "product_image": "ECG Rolls.jpeg",
+            "product_category": "NewItems",
+            "product_price": "24",
+            "product_description": "These ECG Rolls are used in ECG Machines. These ECG Rolls are used for recording the test results in ECG machine. ECG Rolls are used for recording the test results in ECG machine. We have all kinds of paper rolls for every ECG machines. The minimum quantity for order of this product is 50 pieces. These ECG Rolls are of excellent quality and are best for use for medical purposes.",
+            "product_brochure": null
+        },
+        {
+            "sno": "83",
+            "product_id": "a701705c-45f7-11ec-9c48-acde48001122",
+            "product_name": "Ultrasound Gel",
+            "product_image": "Ultrasound Gel.jpeg",
+            "product_category": "NewItems",
+            "product_price": "200",
+            "product_description": "We are the manufacturer of Ultrasound Gel. We supply Ultrasound Gel in all leading hospital's across India. Ultrasound gel is a conductive medium that creates a bond between the skin and the ultrasound transducer. The ultrasound sound waves have a hard time traveling through air, so the gel prevents any extra air space between the probe and your skin. Ultrasound gel is used to reduce the air between your patient and the transducer to reduce acoustic impedance and reflection to allow for a clear image to be produced.",
+            "product_brochure": null
+        },
+        {
+            "sno": "84",
+            "product_id": "a70170d4-45f7-11ec-9c48-acde48001122",
+            "product_name": "3M Safety Mask",
+            "product_image": "3M Safety Mask.jpeg",
+            "product_category": "NewItems",
+            "product_price": "0",
+            "product_description": "A mask is an object normally worn on the face, typically for protection from various diseases. Lightweight, foldable and designed to protect you from pollutants and dust, the lightweight 3M respirator uses a variety of innovative features to help you meet your respiratory protection and comfort needs. By incorporating 3M's proprietary technology - the electrostatically charged microfiber filter media. This is a reusable product and is of large size.",
+            "product_brochure": null
+        },
+        {
+            "sno": "85",
+            "product_id": "a7017138-45f7-11ec-9c48-acde48001122",
+            "product_name": "ECG Gel\r\n",
+            "product_image": "ECG Gel.jpeg",
+            "product_category": "NewItems",
+            "product_price": "15",
+            "product_description": "We are the manufacturer of ECG Gell. We supply ECG Gel in all leading hospital across India. ECG Gel is a multipurpose gel with excellent conductive properties specially formulated to provide clear and consistence ultrasound transmission throughout a broad sign of frequencies, the ideal for all medical ultrasound procedures where a gel is preferred. ECG gel is a water based conductive gel with high conductivity properties. ECG gel is formulated with high viscosity and is used to reduce resistance between skin and electrodes. ",
+            "product_brochure": null
+        },
+        {
+            "sno": "86",
+            "product_id": "a70171a6-45f7-11ec-9c48-acde48001122",
+            "product_name": "Sony Thermal Paper Normal UPP-110s",
+            "product_image": "Sony Thermal Paper Normal UPP-110s.jpeg",
+            "product_category": "NewItems",
+            "product_price": "0",
+            "product_description": "We are offering Sony Brand Thermal Paper Rolls at very reasonable rates. This is an original product of Sony. Thermal paper (sometimes referred to as an audit roll) is a special fine paper that is coated with a material formulated to change color when exposed to heat. These thermal printer rolls are widely used for Ultrasound printing. The minimum quantity for order of this product is 20 pieces.",
+            "product_brochure": null
+        },
+        {
+            "sno": "87",
+            "product_id": "a701720a-45f7-11ec-9c48-acde48001122",
+            "product_name": "Durico Thermal Paper Rolls",
+            "product_image": "Durico Thermal Paper Rolls.jpeg",
+            "product_category": "NewItems",
+            "product_price": "0",
+            "product_description": "Thermal paper (sometimes referred to as an audit roll) is a special fine paper that is coated with a material formulated to change color when exposed to heat. We are offering Durico Thermal Paper Rolls. This is an original product. The size of the roll is 110mm x 20mtr. The minimum quantity for order of this product is 50 pieces.",
+            "product_brochure": null
+        },
+        {
+            "sno": "88",
+            "product_id": "a701726e-45f7-11ec-9c48-acde48001122",
+            "product_name": "Sony Thermal Paper Roll 110HG",
+            "product_image": "Sony Thermal Paper Roll 110HG.jpeg",
+            "product_category": "NewItems",
+            "product_price": "0",
+            "product_description": "Thermal paper (sometimes referred to as an audit roll) is a special fine paper that is coated with a material formulated to change color when exposed to heat. These are Sony original 110HG thermal paper rolls. The color of the roll is white and the pattern on the roll is plain. The length of the roll is 110mm x 20mtr. The minimum quantity for the order of this product is 20 pieces.",
+            "product_brochure": null
+        },
+        {
+            "sno": "89",
+            "product_id": "a70172d2-45f7-11ec-9c48-acde48001122",
+            "product_name": "Durico Thermal Paper Roll 110 HG",
+            "product_image": "Durico Thermal Paper Roll 110 HG.jpeg",
+            "product_category": "NewItems",
+            "product_price": "0",
+            "product_description": "Thermal paper (sometimes referred to as an audit roll) is a special fine paper that is coated with a material formulated to change color when exposed to heat. These are the original Durico thermal paper rolls(110 HG). The size of the roll is 110mm x 20mtr and the roll is of plain pattern. The minimum quantity for the order of this product is 50 pieces.",
+            "product_brochure": null
+        },
+        {
+            "sno": "90",
+            "product_id": "a70173ae-45f7-11ec-9c48-acde48001122",
+            "product_name": "Treadmill- 2000i",
+            "product_image": "Treadmill- 2000i.jpeg",
+            "product_category": "NewItems",
+            "product_price": "41000",
+            "product_description": "Treadmill- 2000i is a motorized treadmill. The motor type of this treadmill is DC motor. This is of Sport Brand. The motor power of this treadmill is 3.5 HP. The maximum user weight it can handle is 140 kg. The console of this treadmill is Blue Backlit LED Screen of 5 inches and it can display speed, distance, time, calories, pulse. The speed of this treadmill ranges between 1km\/hr to 20km\/hr and the inclination ranges between 0 to 15 percent. The running area of this treadmill is 19.2 inches x 56 inches. The features of this treadmill are 8 shock absorbing springs cushions, double layer running board,  USB and Audio input, SD Card. ",
+            "product_brochure": null
+        },
+        {
+            "sno": "91",
+            "product_id": "a7017412-45f7-11ec-9c48-acde48001122",
+            "product_name": "Physio Wax",
+            "product_image": "Physio Wax.jpeg",
+            "product_category": "NewItems",
+            "product_price": "130",
+            "product_description": "Physio Wax is basically physiotherapy wax and it is used for Wax Bath in Physiotherapy. Wax therapy is a form of deep heat therapy one of the most effective ways of applying heat to improve mobility by warming the connective tissues. Wax Therapy, involves the application of molten paraffin wax, to the connecting tissues causing muscle relaxation and improves joint mobility. This product is available in 400 Grams, 800 Grams, 1 Kg and 5 Kg Jars.",
+            "product_brochure": null
+        },
+        {
+            "sno": "92",
+            "product_id": "a701746c-45f7-11ec-9c48-acde48001122",
+            "product_name": "3 Ply Face Mask",
+            "product_image": "3 Ply Face Mask.jpeg",
+            "product_category": "NewItems",
+            "product_price": "3",
+            "product_description": "A mask is an object normally worn on the face, typically for protection from various diseases. 3-ply surgical mask is a 3 layer mask designed with a middle melt-blown layer that is critical as a filter to contain droplets by electrostatically adsorbing them on the surface hence it cannot infiltrate the mask; while the inner layer is intended to absorb water, sweat and spit. This mask is disposable and material of the mask is non-woven.",
+            "product_brochure": null
+        },
+        {
+            "sno": "93",
+            "product_id": "a70174f8-45f7-11ec-9c48-acde48001122",
+            "product_name": "3M Face Mask",
+            "product_image": "3M Face Mask.jpeg",
+            "product_category": "NewItems",
+            "product_price": "70",
+            "product_description": "The Brand of this mask is 3M. A mask is an object normally worn on the face, typically for protection from various diseases. Lightweight, foldable and designed to protect you from pollutants and dust, the lightweight 3M respirator uses a variety of innovative features to help you meet your respiratory protection and comfort needs. By incorporating 3M's proprietary technology - the electrostatically charged microfiber filter media.",
+            "product_brochure": null
+        },
+        {
+            "sno": "94",
+            "product_id": "a7017566-45f7-11ec-9c48-acde48001122",
+            "product_name": "Stabilizer Biofeedback",
+            "product_image": "Stabilizer Biofeedback.jpeg",
+            "product_category": "NewItems",
+            "product_price": "18500",
+            "product_description": "Stabilizer Biofeedback makes it possible during the exercise to control body movements, especially the movements of the spine. This is used especially for exercises aimed at protecting and stabilizing joints, which are important in the prevention and treatment of back pain and neck. This ensures an effective exercise, allowing to reduce back and neck pain and this is a perfect device for stabilization exercises. Stabilizer Biofeedback product can be used at clinics, hospitals and also at homes.",
+            "product_brochure": null
+        },
+        {
+            "sno": "95",
+            "product_id": "a70175d4-45f7-11ec-9c48-acde48001122",
+            "product_name": "Treadmill-10430",
+            "product_image": "Treadmill-10430.jpeg",
+            "product_category": "NewItems",
+            "product_price": "36000",
+            "product_description": "Treadmill-10430 has a DC type motor. The motor power of this treadmill is ranging between 3 hp - 6 hp. The maximum user weight this treadmill can handle is 120 kg. The speed of this treadmill ranges between 1km\/hr to 16km\/hr and the incline levels of this treadmill rages between 1 to 16 percent and also auto incline. The display of this treadmill can show Speed, Distance, Time, Calories, Pulse. The belt size of this treadmill is 17\" x 52\" inches. The running deck of this treadmill is soft cushioned and shock absorbent. Other features include speed and incline keys on handlebar, hydraulic touch down, and also this treadmill has wheels at bottom for easy shifting.",
+            "product_brochure": null
+        },
+        {
+            "sno": "96",
+            "product_id": "a7017638-45f7-11ec-9c48-acde48001122",
+            "product_name": "Face Shield",
+            "product_image": "Face Shield.jpeg",
+            "product_category": "NewItems",
+            "product_price": "30",
+            "product_description": "A face shield is an item of personal protective equipment and it is used to protect the wearer's partial or entire face and the eyes from hazards. Also Face Shield along with mask is very much necessary in these covid times. This is a Standard type Face Shield. The headband material of the Face Shield is of plastic fibre. The minimum quantity for order of this product is 200 pieces.",
+            "product_brochure": null
+        },
+        {
+            "sno": "97",
+            "product_id": "a70176a6-45f7-11ec-9c48-acde48001122",
+            "product_name": "Bed Side Screen 4 Fold",
+            "product_image": "Bed Side Screen 4 Fold.jpeg",
+            "product_category": "NewItems",
+            "product_price": "3500",
+            "product_description": "A movable Device or Screen which can be used in hospitals to create a temporary partition is known as Bedside Screen. Bedside screens are very useful in hospitals, clinics and nursing homes. These screens are used to separate the patient beds and cover bed from the surroundings and also for partitioning to give privacy between patient beds. These screens are also used in the doctor's chambers while the doctor is examining the patient in his private chambers.",
+            "product_brochure": null
+        },
+        {
+            "sno": "98",
+            "product_id": "a7017714-45f7-11ec-9c48-acde48001122",
+            "product_name": "Scoop Stretcher",
+            "product_image": "Scoop Stretcher.jpeg",
+            "product_category": "NewItems",
+            "product_price": "7500",
+            "product_description": "The scoop stretcher (or clamshell, Roberson orthopedic stretcher, or just scoop) is a device used specifically for moving injured people. Scoop stretcher allow you to scoop the patient off of the floor – without having to roll them – and carry them. The size of the Product is ranging between minumum 164x43x8cm and maximum 201x43x8cm (unit measurement of length x breadth x height). The net weight of this product is 9 kgs and gross weight is 11 kg and the bearing pressure is 159 kgs.\n",
+            "product_brochure": null
+        },
+        {
+            "sno": "99",
+            "product_id": "a7017782-45f7-11ec-9c48-acde48001122",
+            "product_name": "Examination Table",
+            "product_image": "Examination Table.jpeg",
+            "product_category": "NewItems",
+            "product_price": "4500",
+            "product_description": "An examination table (or exam table) is used to support patients during medical examinations. Examination Table are designed to provide easier and more efficient treatment for patients. Examination Table is highly demanded in hospitals, dispensaries, clinic and other related places.",
+            "product_brochure": null
+        },
+        {
+            "sno": "100",
+            "product_id": "a70177f0-45f7-11ec-9c48-acde48001122",
+            "product_name": "Venus Mask",
+            "product_image": "Venus Mask.jpeg",
+            "product_category": "NewItems",
+            "product_price": "0",
+            "product_description": "A mask is an object normally worn on the face, typically for protection from various diseases. Venus V4400N95 is a mask which is used in a variety of industries as it provides protection against sub-micron particles, fine dusts, water\/oil based liquid mist and biological agents. The colour of this mask is white. This product is used for Medical Purpose, Industrial Safety, Anti Pollution.",
+            "product_brochure": null
+        },
+        {
+            "sno": "101",
+            "product_id": "f8ab01a0-46a3-11ec-b474-acde48001122",
+            "product_name": "Crash Cart ( Plain)",
+            "product_image": "Crash Cart ( Plain).jpeg",
+            "product_category": "NewItems",
+            "product_price": "16000",
+            "product_description": "A Crash Cart is a set of trays\/drawers\/shelves on wheels used in hospitals for transportation and dispensing of emergency medication\/equipment at site of medical or surgical emergency for life support protocols to potentially save someone's life. The Cart helps in carrying instruments for cardiopulmonary resuscitation and other medical supplies while also functioning as a support litter for the patient.",
+            "product_brochure": null
+        },
+        {
+            "sno": "102",
+            "product_id": "f8ab3bf2-46a3-11ec-b474-acde48001122",
+            "product_name": "Examination Couch",
+            "product_image": "Examination Couch.jpeg",
+            "product_category": "NewItems",
+            "product_price": "20000",
+            "product_description": "An Examination Couch is perhaps the most versatile and very necessary piece of furniture in a healthcare facility such as hospital or clinic or a dispensary. Examination Couch provide patients with a comfortable and safe surface to sit or lay on while being examined and treated by medical staff.",
+            "product_brochure": null
+        },
+        {
+            "sno": "103",
+            "product_id": "f8ab4ec6-46a3-11ec-b474-acde48001122",
+            "product_name": "Hydrocollator 4 Pack",
+            "product_image": "Hydrocollator 4 Pack.jpeg",
+            "product_category": "NewItems",
+            "product_price": "8500",
+            "product_description": "Hydrocollator Packs are a combination of bentonite clay and other natural fillings. These bentonite clay packs applied externally are used to alleviate inflammatory pain, joint pain, arthritis, congestion, bruised tissue, and strains. They prepare tense areas for deep tissue, reduce muscle spasm, and are very therapeutic following muscle soreness from physical activity. This product can be used at hospital, clinics.",
+            "product_brochure": null
+        },
+        {
+            "sno": "104",
+            "product_id": "f8abec96-46a3-11ec-b474-acde48001122",
+            "product_name": "Cylinder Trolley",
+            "product_image": "Cylinder Trolley.jpeg",
+            "product_category": "NewItems",
+            "product_price": "1000",
+            "product_description": "Replacing gas cylinders is one of the back-breaking tasks that people often try to run away from. Cylinder trolleys can lend you a helping hand in completing this task with ease. Cylinder Trolleys are used to move Gas Bottles safely and with ease. The capacity of this cylinder trolley is of one oxygen cylinder. The material of this product is iron.",
+            "product_brochure": null
+        },
+        {
+            "sno": "105",
+            "product_id": "f8abedea-46a3-11ec-b474-acde48001122",
+            "product_name": "Instrument Cabinet",
+            "product_image": "Instrument Cabinet.jpeg",
+            "product_category": "NewItems",
+            "product_price": "14000",
+            "product_description": "Instrument cabinets are exclusively designed to keep medical instruments safe, secure and clean. The door type of this product is digital and this product is basically used in cxervical ,lumber. This machine has 1 year of warranty.",
+            "product_brochure": null
+        },
+        {
+            "sno": "106",
+            "product_id": "f8abee76-46a3-11ec-b474-acde48001122",
+            "product_name": "Odonil Freshener",
+            "product_image": "Odonil Freshener.jpeg",
+            "product_category": "NewItems",
+            "product_price": "145",
+            "product_description": "Odonil Freshener of the Odonil Brand are used to impart an aroma to the air environment or to mask odors, with the intent of creating a pleasing indoor space. This is a spray type product. All types of fragrance are available for this product. The packaging size is 240 ML, it is Eco-Friendly and it is a Made in India product. ",
+            "product_brochure": null
+        },
+        {
+            "sno": "107",
+            "product_id": "f8abeee4-46a3-11ec-b474-acde48001122",
+            "product_name": "Savlon Antiseptic Liquid",
+            "product_image": "Savlon Antiseptic Liquid.jpeg",
+            "product_category": "NewItems",
+            "product_price": "150",
+            "product_description": "Savlon Antiseptic Liquid is used to cleanse and help prevent infection in first aid, washing minor wounds to remove the dirt and debris, cuts and grazes, insect bites and stings and minor abrasions.The packaging size of this Savlon Antiseptic Liquid is 500 ML. It is of ICT Brand. The packaging of this product is a simple cap bottle. And this is a Made in India Product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "108",
+            "product_id": "f8abef5c-46a3-11ec-b474-acde48001122",
+            "product_name": "Savlon Antiseptic Liquid",
+            "product_image": "SavlonAntisepticLiquid.jpeg",
+            "product_category": "NewItems",
+            "product_price": "290",
+            "product_description": "Savlon Antiseptic Liquid is used to cleanse and help prevent infection in first aid, washing minor wounds to remove the dirt and debris, cuts and grazes, insect bites and stings and minor abrasions.The packaging size of this Savlon Antiseptic Liquid is 1000 ML. It is of ICT Brand. The packaging of this product is a simple cap bottle. And this is a Made in India Product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "109",
+            "product_id": "f8abefca-46a3-11ec-b474-acde48001122",
+            "product_name": "Harpic Power 600 Ml",
+            "product_image": "Harpic Power 600 Ml.png",
+            "product_category": "NewItems",
+            "product_price": "108",
+            "product_description": "Harpic is a thick liquid formula with powerful cleaning agents removes tough stains and kills 99.9 percent of germs. It also gives your bathroom a pleasant fresh fragrance. Used for regular cleaning of bathroom floor and tiles.The packaging size of Harpic Power is of 1000 ML. It is of Harpic Brand. The packaging of this product is a bottle and color is blue.",
+            "product_brochure": null
+        },
+        {
+            "sno": "110",
+            "product_id": "f8abf038-46a3-11ec-b474-acde48001122",
+            "product_name": "Savlon Antiseptic Liquid 5 LTR",
+            "product_image": "Savlon Antiseptic Liquid 5 LTR.jpeg",
+            "product_category": "NewItems",
+            "product_price": "1450",
+            "product_description": "Savlon Antiseptic Liquid is used to cleanse and help prevent infection in first aid, washing minor wounds to remove the dirt and debris, cuts and grazes, insect bites and stings and minor abrasions. The packaging size of this Savlon Antiseptic Liquid is 5000 ML or 5 Litres. It is of ICT Brand. This is a Made in India Product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "111",
+            "product_id": "f8abf0ba-46a3-11ec-b474-acde48001122",
+            "product_name": "Harpic Power 5000 Ml",
+            "product_image": "Harpic Power 5000 Ml.jpeg",
+            "product_category": "NewItems",
+            "product_price": "800",
+            "product_description": "Harpic is a thick liquid formula with powerful cleaning agents removes tough stains and kills 99.9 percent of germs. It also gives your bathroom a pleasant fresh fragrance. Used for regular cleaning of bathroom floor and tiles.The packaging size of Harpic Power is of 5000 ML or 5 Litres. It is of Harpic Brand. The packaging of this product is a can and color is blue.",
+            "product_brochure": null
+        },
+        {
+            "sno": "112",
+            "product_id": "f8abf164-46a3-11ec-b474-acde48001122",
+            "product_name": "Sonography Lamination Sheet",
+            "product_image": "Sonography Lamination Sheet.jpeg",
+            "product_category": "NewItems",
+            "product_price": "0",
+            "product_description": "Sonography Lamination Sheets are used for Sticking Ultrasound printer Paper printouts , ECG Paper Printouts , Colour Paper PrintoutsThis Sonography Lamination Sheet is of Nataraj Brand. It is made of PVC material. It is 11X13 A4 Size Sheet type and is 2MM thick.",
+            "product_brochure": null
+        },
+        {
+            "sno": "113",
+            "product_id": "f8abf1dc-46a3-11ec-b474-acde48001122",
+            "product_name": "Folding Wheel Chair",
+            "product_image": "FOLDING WHEEL CHAIR.jpeg",
+            "product_category": "NewItems",
+            "product_price": "4300",
+            "product_description": "A foldable wheelchair, it has a lightweight frame that can be folded into a compact shape and stored easily at home or into the trunk of a vehicle. The frame of the chair is foldable, including the seat. This is a manual Foldable Wheelchair. The minimum quantity for the order of this product is 10 pieces.",
+            "product_brochure": null
+        },
+        {
+            "sno": "114",
+            "product_id": "f8abf2e0-46a3-11ec-b474-acde48001122",
+            "product_name": "Shortwave Diathermy Equipment 500w MACHINE (SWD)",
+            "product_image": "Shortwave Diathermy Equipment 500w MACHINE (SWD).jpeg",
+            "product_category": "NewItems",
+            "product_price": "21000",
+            "product_description": "Shortwave Diathermy Equipment 500w Machine (SWD).",
+            "product_brochure": null
+        },
+        {
+            "sno": "115",
+            "product_id": "f8abf3b2-46a3-11ec-b474-acde48001122",
+            "product_name": "Ultrasound Therapy Equipment",
+            "product_image": "Ultrasound Therapy Equipment.jpeg",
+            "product_category": "NewItems",
+            "product_price": "3000",
+            "product_description": "Ultrasound therapy causes mechanical vibrations, from high frequency sound waves, on skin and soft tissue via an aqueous solution. Ultrasound therapy is a treatment used by physical therapists or occupational therapists to relieve pain and to promote tissue healing. Ultrasound Therapy Equipment can be used at hospital. The minimum quantity for the order of this product is 10 pieces.",
+            "product_brochure": null
+        },
+        {
+            "sno": "116",
+            "product_id": "f8abf466-46a3-11ec-b474-acde48001122",
+            "product_name": "Universal Hydraulic Operation Table",
+            "product_image": "Universal Hydraulic Operation Table.jpeg",
+            "product_category": "NewItems",
+            "product_price": "78500",
+            "product_description": "Universal Hydraulic Operation Table",
+            "product_brochure": null
+        },
+        {
+            "sno": "117",
+            "product_id": "f8abf524-46a3-11ec-b474-acde48001122",
+            "product_name": "Infra Red Lamp",
+            "product_image": "Infra Red Lamp.jpeg",
+            "product_category": "NewItems",
+            "product_price": "650",
+            "product_description": "An Infra Red Lamp, a high-power incandescent lamp operating at a lower filament temperature than a lamp used for illumination and yielding a large percentage of infrared radiation that is useful for heating purposes. The colour of this Infra Red Lamp is red colour.",
+            "product_brochure": null
+        },
+        {
+            "sno": "118",
+            "product_id": "f8abf5ce-46a3-11ec-b474-acde48001122",
+            "product_name": "I.V. Stand",
+            "product_image": "I.V. Stand.jpeg",
+            "product_category": "NewItems",
+            "product_price": "1000",
+            "product_description": "I.V. stands or poles are medical devices that are designed to hang bags containing intravenous fluids or medicines which need to be administered to the patient. They are used for the utmost hygienic purpose and are space savers. The primary material of the I.V. stand is iron and the color of this product is white. ",
+            "product_brochure": null
+        },
+        {
+            "sno": "119",
+            "product_id": "f8abf682-46a3-11ec-b474-acde48001122",
+            "product_name": "Wobble Board",
+            "product_image": "Wooble Board.jpeg",
+            "product_category": "NewItems",
+            "product_price": "2500",
+            "product_description": "A wobble board is an exercise device used to improve balance, functional strength and mental focus. Wobble boards have a flat surface supported over a less stable cylinder or ball. Balancing on the flat surface challenges your muscles and proprioception as your body and mind adapt to moving on the unstable support below.",
+            "product_brochure": null
+        },
+        {
+            "sno": "120",
+            "product_id": "f8abf72c-46a3-11ec-b474-acde48001122",
+            "product_name": "Instrument Trolley",
+            "product_image": "Instrument Trolley.jpeg",
+            "product_category": "NewItems",
+            "product_price": "4500",
+            "product_description": "Instrument trolley or medicine trolley is widely used in hospitals to carry medicines and medical instruments. This is the standard square metal trolley with casters on each leg to assist in quick relocation of the trolley around the room or rooms. The material of this Instrument Trolly is Stainless Steel.",
+            "product_brochure": null
+        },
+        {
+            "sno": "121",
+            "product_id": "7b7668f4-5441-11ec-b7f9-acde48001122",
+            "product_name": "Examination Couch Iron",
+            "product_image": "Examination Couch Iron.jpeg",
+            "product_category": "NewItems",
+            "product_price": "7500",
+            "product_description": "An Examination Couch is perhaps the most versatile and very necessary piece of furniture in a healthcare facility such as hospital or clinic or a dispensary. Examination Couch provide patients with a comfortable and safe surface to sit or lay on while being examined and treated by medical staff. The material of this product is iron.",
+            "product_brochure": null
+        },
+        {
+            "sno": "122",
+            "product_id": "7b767f6a-5441-11ec-b7f9-acde48001122",
+            "product_name": "Hand Exercise Table",
+            "product_image": "",
+            "product_category": "NewItems",
+            "product_price": "10000",
+            "product_description": "Hand Exercise Table is widely used for bringing strength and movement in human hands. Hand Exercise Table is very versatile to get all the hand muscles exercised, by its multiple levers. This table can be used for hand exercise, without needing any assistance or support from a medical professional.",
+            "product_brochure": null
+        },
+        {
+            "sno": "123",
+            "product_id": "7b7680e6-5441-11ec-b7f9-acde48001122",
+            "product_name": "Shoulder Wheel",
+            "product_image": "Shoulder Wheel.jpeg",
+            "product_category": "NewItems",
+            "product_price": "1000",
+            "product_description": "The Shoulder Wheel is a Wall Mounting Unit for shoulder, arm and pronation\/supination exercises. Shoulder Wheel is great for use before a work out to warm up the shoulder muscles and stretch out or to activate and engage the core muscles. This machine allows patients to perform resistance exercises to improve range of motion and relieve pain.",
+            "product_brochure": null
+        },
+        {
+            "sno": "124",
+            "product_id": "7b7697ac-5441-11ec-b7f9-acde48001122",
+            "product_name": "Balance Board",
+            "product_image": "Balance Board.jpeg",
+            "product_category": "NewItems",
+            "product_price": "2500",
+            "product_description": "Balance board can help you develop good posture and fight back against your spine slumping and curving. Balance boards help by strengthening the deep muscles in our torso that don't normally get worked out. This eventually provides us with a strong foundation and a better taller looking  posture.",
+            "product_brochure": null
+        },
+        {
+            "sno": "125",
+            "product_id": "7b769928-5441-11ec-b7f9-acde48001122",
+            "product_name": "Telescopic Labour Table",
+            "product_image": "Telescopic Labour Table.jpeg",
+            "product_category": "NewItems",
+            "product_price": "19500",
+            "product_description": "Telescopic Labour Table",
+            "product_brochure": null
+        },
+        {
+            "sno": "126",
+            "product_id": "7b7699e6-5441-11ec-b7f9-acde48001122",
+            "product_name": "Autoclave",
+            "product_image": "Autoclave.jpeg",
+            "product_category": "NewItems",
+            "product_price": "16000",
+            "product_description": "An autoclave is used in medical and laboratory settings to sterilize lab equipment and waste. Autoclave sterilization works by using heat to kill microorganisms such as bacteria and spores. The heat is delivered by pressurized steam. The heat is delivered by pressurized steam. Pressurization allows the steam to reach the high temperatures that are required for sterilization.",
+            "product_brochure": null
+        },
+        {
+            "sno": "127",
+            "product_id": "7b769a86-5441-11ec-b7f9-acde48001122",
+            "product_name": "Ball Pool",
+            "product_image": "Ball Pool.jpeg",
+            "product_category": "NewItems",
+            "product_price": "13000",
+            "product_description": "Ball Pool",
+            "product_brochure": null
+        },
+        {
+            "sno": "128",
+            "product_id": "7b769b26-5441-11ec-b7f9-acde48001122",
+            "product_name": "Bed Side Locker Deluxe",
+            "product_image": "Bed Side Locker Deluxe.jpeg",
+            "product_category": "NewItems",
+            "product_price": "6000",
+            "product_description": "A Hospital Bedside Locker is placed directly next to the patient bed as a storage area. Our bedside lockers are designed with adequate number of drawers and lockers for all your essentials items like medicines. These lockers are mobile, variable and extremely stable for use in hospital rooms or clinics or dispensary.",
+            "product_brochure": null
+        },
+        {
+            "sno": "129",
+            "product_id": "7b769c2a-5441-11ec-b7f9-acde48001122",
+            "product_name": "Gym Balls",
+            "product_image": "Gym Balls.jpeg",
+            "product_category": "NewItems",
+            "product_price": "1500",
+            "product_description": "Gym balls or exercise balls are a popular and versatile piece of fitness equipment used in gyms, homes, physical therapy sessions and even the workplace. Also known as exercise balls, Swiss balls, Physio balls, and balance balls, the purpose of the gym ball is to improve balance, muscle tone and core strength.",
+            "product_brochure": null
+        },
+        {
+            "sno": "130",
+            "product_id": "7b769d38-5441-11ec-b7f9-acde48001122",
+            "product_name": "Medicine Trolley With 4 Drawers",
+            "product_image": "Medicine Trolley With 4 Drawers.jpeg",
+            "product_category": "NewItems",
+            "product_price": "12000",
+            "product_description": "Medicine Trolley is widely used in hospitals or clinics or dispensary to carry a range of items such as bandages, medicines or other such items used for surgery or basically for medical and healthcare use. This medicine trolley consists of four drawers used for carrying range of healthcare related items.",
+            "product_brochure": null
+        },
+        {
+            "sno": "131",
+            "product_id": "7b769dd8-5441-11ec-b7f9-acde48001122",
+            "product_name": "Folding Mat",
+            "product_image": "Folding Mat.jpeg",
+            "product_category": "NewItems",
+            "product_price": "600",
+            "product_description": "Fitness mats are thick and large. They're generally at least half an inch thick and about five feet long. They're used for crunches and stretching exercises, or any other general exercise you prefer; they can absorb some amount of impact shock and provide cushioning between you and the floor during general exercise.",
+            "product_brochure": null
+        },
+        {
+            "sno": "132",
+            "product_id": "7b769ed2-5441-11ec-b7f9-acde48001122",
+            "product_name": "Goniometer 360",
+            "product_image": "Goniometer 360.jpeg",
+            "product_category": "NewItems",
+            "product_price": "190",
+            "product_description": "A goniometer is used to document initial and subsequent range of motion, at the visits for occupational injuries, and by disability evaluators to determine a permanent disability.This is to evaluate progress, and also for medico-legal purposes. In physical therapy and occupational therapy, a goniometer is an instrument which measures range of motion joint angles of the body. This measurement instrument is a helpful, clinical tool that allows for objective measurements in order to accurately track progress in a rehabilitation program.",
+            "product_brochure": null
+        },
+        {
+            "sno": "133",
+            "product_id": "7b769f7c-5441-11ec-b7f9-acde48001122",
+            "product_name": "Combination Tens 4 Channel With Ultrasonic",
+            "product_image": "Combination Tens 4 Channel With Ultrasonic.jpeg",
+            "product_category": "NewItems",
+            "product_price": "5500",
+            "product_description": "Combination Tens 4 Channel With Ultrasonic",
+            "product_brochure": null
+        },
+        {
+            "sno": "134",
+            "product_id": "7b76a026-5441-11ec-b7f9-acde48001122",
+            "product_name": "Paediatric Bed",
+            "product_image": "Paediatric Bed.jpeg",
+            "product_category": "NewItems",
+            "product_price": "6500",
+            "product_description": "Paediatric beds are designed for infants, toddlers, and young children who are patients in healthcare facilities. Paediatric beds and their features prevent infants, toddlers, and young children from climbing over the side-rails, falling through openings, or being trapped in a way that could cause injury and also facilitate caregiver access during treatment. Paediatric beds resemble cribs used in the home.",
+            "product_brochure": null
+        },
+        {
+            "sno": "135",
+            "product_id": "7b76a0d0-5441-11ec-b7f9-acde48001122",
+            "product_name": "Hospital Semi Fowler Bed ( ABS Panels)",
+            "product_image": "Hospital Semi Fowler Bed ( ABS Panels).jpeg",
+            "product_category": "NewItems",
+            "product_price": "12500",
+            "product_description": "Hospital Semi Fowler beds are ergonomically designed, four section perforated beds utilized for knee rest and backrest functions. The beds, operated using cranks or motors, utilize either simultaneous, central or individual braking system. These fowler beds are equipped with easy lifting or collapsible side rails to ensure patient safety. Stainless Steel or ABS are used for the head and foot panels.",
+            "product_brochure": null
+        },
+        {
+            "sno": "136",
+            "product_id": "7b76a274-5441-11ec-b7f9-acde48001122",
+            "product_name": "Vernier Chronoscope",
+            "product_image": "Vernier Chronoscope.jpeg",
+            "product_category": "NewItems",
+            "product_price": "0",
+            "product_description": "Vernier Chronoscope",
+            "product_brochure": null
+        },
+        {
+            "sno": "137",
+            "product_id": "7b76a332-5441-11ec-b7f9-acde48001122",
+            "product_name": "Bed Side Locker",
+            "product_image": "Bed Side Locker.jpeg",
+            "product_category": "NewItems",
+            "product_price": "2000",
+            "product_description": "A Hospital Bedside Locker is placed directly next to the patient bed as a storage area. Our bedside lockers are designed with adequate number of drawers and lockers for all your essentials items like medicines. These lockers are mobile, variable and extremely stable for use in hospital rooms or clinics or dispensary.",
+            "product_brochure": null
+        },
+        {
+            "sno": "138",
+            "product_id": "7b76a3c8-5441-11ec-b7f9-acde48001122",
+            "product_name": "IQ Test Kit",
+            "product_image": "IQ Test Kit.jpeg",
+            "product_category": "NewItems",
+            "product_price": "0",
+            "product_description": "IQ Test Kit",
+            "product_brochure": null
+        },
+        {
+            "sno": "139",
+            "product_id": "7b76a45e-5441-11ec-b7f9-acde48001122",
+            "product_name": "Hospital Semi Fowler Bed",
+            "product_image": "Hospital Semi Fowler Bed.jpeg",
+            "product_category": "NewItems",
+            "product_price": "12500",
+            "product_description": "Hospital Semi Fowler beds are ergonomically designed, four section perforated beds utilized for knee rest and backrest functions. The beds, operated using cranks or motors, utilize either simultaneous, central or individual braking system. These fowler beds are equipped with easy lifting or collapsible side rails to ensure patient safety. Stainless Steel or ABS are used for the head and foot panels.",
+            "product_brochure": null
+        },
+        {
+            "sno": "140",
+            "product_id": "7b76a4f4-5441-11ec-b7f9-acde48001122",
+            "product_name": "International Personality Disorder Examination",
+            "product_image": "International Personality Disorder Examination.jpeg",
+            "product_category": "NewItems",
+            "product_price": "0",
+            "product_description": "International Personality Disorder Examination",
+            "product_brochure": null
+        },
+        {
+            "sno": "141",
+            "product_id": "deab3338-5445-11ec-b7f9-acde48001122",
+            "product_name": "Double Step Full S. S.",
+            "product_image": "Double Step Full S. S..jpeg",
+            "product_category": "NewItems",
+            "product_price": "2000",
+            "product_description": "Double Step Full S. S.",
+            "product_brochure": null
+        },
+        {
+            "sno": "142",
+            "product_id": "fc655296-5445-11ec-b7f9-acde48001122",
+            "product_name": "Crash Cart (SS)",
+            "product_image": "Crash Cart (SS).jpeg",
+            "product_category": "NewItems",
+            "product_price": "20000",
+            "product_description": "A Crash Cart is a set of trays\/drawers\/shelves on wheels used in hospitals for transportation and dispensing of emergency medication\/equipment at site of medical or surgical emergency for life support protocols to potentially save someone's life. The Cart helps in carrying instruments for cardiopulmonary resuscitation and other medical supplies while also functioning as a support litter for the patient. The material of this cart is Stainless Steel.",
+            "product_brochure": null
+        },
+        {
+            "sno": "143",
+            "product_id": "4eb2f77e-5446-11ec-b7f9-acde48001122",
+            "product_name": "Rorschsch Inkbolt Technique",
+            "product_image": "Rorschsch Inkbolt Technique.jpeg",
+            "product_category": "NewItems",
+            "product_price": "0",
+            "product_description": "Rorschsch Inkbolt Technique",
+            "product_brochure": null
+        },
+        {
+            "sno": "144",
+            "product_id": "952de36c-5446-11ec-b7f9-acde48001122",
+            "product_name": "Over Bed Table Mechanical",
+            "product_image": "Over Bed Table Mechanical.jpeg",
+            "product_category": "NewItems",
+            "product_price": "5000",
+            "product_description": "Over Bed Table Mechanical are configured to more easily provide a steady surface top over the top of a bed. Instead of using an unsteady table that sits on the mattress, or a table that sits off to the side of the bed that is awkward or unreachable, utilizing an overbed table provides a stable, solid and reliable surface for a variety of purposes. Overbed tables are often employed in hospitals and other caregiving facilities to provide ease of use for the patients when dining, reading, using a computer or doing other activities such as writing, crafts, puzzles or games.",
+            "product_brochure": null
+        },
+        {
+            "sno": "145",
+            "product_id": "952de6b4-5446-11ec-b7f9-acde48001122",
+            "product_name": "Dressing Trolley",
+            "product_image": "Dressing Trolley.jpeg",
+            "product_category": "NewItems",
+            "product_price": "8500",
+            "product_description": "Dressing trolley is used in hospitals or clinics or dispensary to carry out dressing or cleaning of patients after an operation. The tubular frame of hospital dressing trolley is made of various metals which are either painted or powder coated. The hospital dressing trolley is mounted on four wheels.",
+            "product_brochure": null
+        },
+        {
+            "sno": "146",
+            "product_id": "d981beda-5446-11ec-b7f9-acde48001122",
+            "product_name": "Stretcher Trolley 6\"",
+            "product_image": "Stretcher Trolley 6\".jpeg",
+            "product_category": "NewItems",
+            "product_price": "6500",
+            "product_description": "A stretcher is a device used to carry a person who must lie flat and can't move on their own. A stretcher contains four wheels through which it is easy to take patient using less effort to take patient to the required place. The length of this stretcher is 6 feet and it can be used in hospitals or clinics or dispensary. ",
+            "product_brochure": null
+        },
+        {
+            "sno": "147",
+            "product_id": "d981d762-5446-11ec-b7f9-acde48001122",
+            "product_name": "Scrub Station",
+            "product_image": "Scrub Station.jpeg",
+            "product_category": "NewItems",
+            "product_price": "33000",
+            "product_description": "Scrub sinks, also referred to as surgical sinks or medical sinks, are vital to keeping Operating Theatres (OT's) up and running, and are imperative to the health and safety of patients. They serve as the scrub station for surgeons and other staff to scrub their hands and arms before a surgical or invasive procedure. This helps take necessary precautions before surgery which may reduce the risk of infections.",
+            "product_brochure": null
+        },
+        {
+            "sno": "148",
+            "product_id": "d68232ae-5447-11ec-b7f9-acde48001122",
+            "product_name": "Obstetric Labour Table ( Mechanical)",
+            "product_image": "Obstetric Labour Table ( Mechanical).jpeg",
+            "product_category": "NewItems",
+            "product_price": "14500",
+            "product_description": "Obstetric Labour Table ( Mechanical)",
+            "product_brochure": null
+        },
+        {
+            "sno": "149",
+            "product_id": "d6823704-5447-11ec-b7f9-acde48001122",
+            "product_name": "Soiled Linen Trolley",
+            "product_image": "Soiled Linen Trolley.jpeg",
+            "product_category": "NewItems",
+            "product_price": "2000",
+            "product_description": "Soiled Linen Trolley is a high quality product and trusted all across the globe. Soiled Linen Trolley Stainless Steel excellent solution for the collection of soiled linen around the hospital or clinics or dispensary. The best quality canvas bags are used with the Soiled Linen Trolley to hygienically dispose the soiled items.",
+            "product_brochure": null
+        },
+        {
+            "sno": "150",
+            "product_id": "d6823812-5447-11ec-b7f9-acde48001122",
+            "product_name": "Chest Expander",
+            "product_image": "Chest Expander.jpeg",
+            "product_category": "NewItems",
+            "product_price": "1200",
+            "product_description": "The Chest Expander is your ideal workout tool for building functional strength. They allow you to perform a unique set of exercises that promote ligament and tendon strength. It effectively tones your chest muscles and serves as a great supplement to your current fitness routine. Chest Expander can also work your shoulders and arms.",
+            "product_brochure": null
+        },
+        {
+            "sno": "151",
+            "product_id": "8e96ce46-545b-11ec-b7f9-acde48001122",
+            "product_name": "Eleven Activity Work Station",
+            "product_image": "Eleven Activity Work Station.jpeg",
+            "product_category": "NewItems",
+            "product_price": "38000",
+            "product_description": "This multifunctional Eleven Activity Work Station let’s you treat multiple patients simultaneously to encourage social interaction and permits many activities to be performed while sitting \/standing and also provides storage space for the following 12 most recognized activities appropriate to a variety of patients.\r\n\r\n",
+            "product_brochure": null
+        },
+        {
+            "sno": "152",
+            "product_id": "8e96e61a-545b-11ec-b7f9-acde48001122",
+            "product_name": "C P Walker",
+            "product_image": "CP Walker.jpeg",
+            "product_category": "NewItems",
+            "product_price": "3500",
+            "product_description": "C P Walker is a four-wheeled posture control walkers with Body supporting strap. It reduces the risk of fractures and osteoporosis and Increases bone strength. C.P. Walker can be used for both Sitting and Standing movement. The sitting pad can be removed also be adjusted as per Child comfort and rectangle frame supports body while walking.",
+            "product_brochure": null
+        },
+        {
+            "sno": "153",
+            "product_id": "8e96e732-545b-11ec-b7f9-acde48001122",
+            "product_name": "Hand Tool Test Board",
+            "product_image": "Hand Tool Test Board.jpeg",
+            "product_category": "NewItems",
+            "product_price": "15000",
+            "product_description": "Hand Tool Test Board measures proficiency in using ordinary mechanics tools. The test consist of tools and two upright board with bolts and norms. The Subject disassembles all bolts from one board and reassembles them on the other important skills for factory, industrial and service jobs. It also makes a great work simulation task. Hand Tool Test Board can be used at clinics or hospitals.",
+            "product_brochure": null
+        },
+        {
+            "sno": "154",
+            "product_id": "8e96e804-545b-11ec-b7f9-acde48001122",
+            "product_name": "Hand Evaluation Kit",
+            "product_image": "Hand Evaluation Kit.jpeg",
+            "product_category": "NewItems",
+            "product_price": "48000",
+            "product_description": "Hand Evaluation Kit",
+            "product_brochure": null
+        },
+        {
+            "sno": "155",
+            "product_id": "8e96e872-545b-11ec-b7f9-acde48001122",
+            "product_name": "Psychology Equipments",
+            "product_image": "Psychology Equipments.jpeg",
+            "product_category": "NewItems",
+            "product_price": "6500",
+            "product_description": "Psychology Equipments",
+            "product_brochure": null
+        },
+        {
+            "sno": "156",
+            "product_id": "99cfc414-545d-11ec-b7f9-acde48001122",
+            "product_name": "Hand Exercise Table",
+            "product_image": "",
+            "product_category": "NewItems",
+            "product_price": "6000",
+            "product_description": "This Hand Exercise Table can be used for multiple exercises. The material of this Hand Exercise Table is wood. The number of handles in this Hand Exercise Table are 1.",
+            "product_brochure": null
+        },
+        {
+            "sno": "157",
+            "product_id": "99cfea98-545d-11ec-b7f9-acde48001122",
+            "product_name": "Exercise Staircase Corner Type",
+            "product_image": null,
+            "product_category": "NewItems",
+            "product_price": "8000",
+            "product_description": "This Exercise Staircase Corner Type is a Made in India product.",
+            "product_brochure": null
+        },
+        {
+            "sno": "158",
+            "product_id": "99cfec96-545d-11ec-b7f9-acde48001122",
+            "product_name": "Suspension Apparatus",
+            "product_image": "Suspension Apparatus.jpeg",
+            "product_category": "NewItems",
+            "product_price": "10000",
+            "product_description": "Suspension Apparatus",
+            "product_brochure": null
+        },
+        {
+            "sno": "159",
+            "product_id": "99cfed72-545d-11ec-b7f9-acde48001122",
+            "product_name": "AIMS Neuropsychological Battery Adults",
+            "product_image": "AIMS Neuropsychological Battery Adults.jpeg",
+            "product_category": "NewItems",
+            "product_price": "0",
+            "product_description": "AIMS Neuropsychological Battery Adults",
+            "product_brochure": null
+        },
+        {
+            "sno": "160",
+            "product_id": "12e2e580-546c-11ec-b7f9-acde48001122",
+            "product_name": "Venus V44 Respirator N95 Mask",
+            "product_image": "Venus V44 Respirator N95 Mask.jpeg",
+            "product_category": "NewItems",
+            "product_price": "14",
+            "product_description": "This range of respiratory protection tools is made of comfortable and non-allergic\r\nmaterials which are further enabled with Textile Braided double elastic head bands stitched outside filter area to prevent leakage. With various color, these are also offered with several printed logos. With the facility of elastic sewed outside the filter area, these systems does not puncture or fails. The available color for the mask is yellow and grey. The weight of this mask is less than 7 grams. This mask is ISI 9473:2002 and DGMS approved. It has 80% Filtering Efficiency.",
+            "product_brochure": "v44.pdf"
+        },
+        {
+            "sno": "161",
+            "product_id": "12e305ec-546c-11ec-b7f9-acde48001122",
+            "product_name": "Venus V-410 Respirator N95 Mask",
+            "product_image": "Venus V-410 Respirator N95 Mask.jpeg",
+            "product_category": "NewItems",
+            "product_price": "17",
+            "product_description": "The V-4200 series of respirators includes Venus V-4214 SLOV-V, V-414 SLOV-V, V-425 SLOV-V, V-410 S, V410 SL, V-420 SL, V-410 V, V-410 SLV, V-420 SLV, V-430 SLV & 4200 N95. These respirators are of fold flat design with a large surface area for breathing comfort. The filters have a high dust holding capacity which do not get clogged thereby increasing the respirators life. These respirators also come with a special transparent valve cap to demonstrate the performance of the valve. V-4200 series respirators have NR D Anti clogging mark. These series of respirators have passed dolomite test and can resist clogging in very high dust environments.",
+            "product_brochure": "v410.pdf"
+        },
+        {
+            "sno": "162",
+            "product_id": "512ad200-546f-11ec-b7f9-acde48001122",
+            "product_name": "Electrotherapy Accessories",
+            "product_image": "Electrotherapy Accessories.jpeg",
+            "product_category": "NewItems",
+            "product_price": "1200",
+            "product_description": "Electrotherapy Accessories",
+            "product_brochure": null
+        }
+    ]
+}
