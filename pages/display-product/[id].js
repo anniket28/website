@@ -61,8 +61,11 @@ const Display = (props) => {
         
         setproduct(allProducts)
         router.push(`/our-products/${productRangeCategory}`)
-        setspinner(false)
-        setshowProducts(true)
+        const loading=setTimeout(() => {
+            setspinner(false)
+            setshowProducts(true)
+        }, 100);
+        clearTimeout(loading)
     }
 
     const handleProductDisplayClick=async(productId,product_name)=>{
@@ -114,7 +117,7 @@ const Display = (props) => {
                     </div>
                     <hr />
                     <h5>Product Description</h5>
-                    <p className="card-text product-desc">{product.product_description}</p>
+                    <p className="card-text product-desc text-dark">{product.product_description}</p>
                     <hr />
                     <div className='card p-4' style={{backgroundColor:'aliceblue'}}>
                         <h4 className='text-center text-dark mb-0'>Interested in this product?</h4>
