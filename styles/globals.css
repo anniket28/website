@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@500&family=Bitter:wght@400;500&family=Fredoka&family=Gideon+Roman&family=Hind+Siliguri:wght@400;500&family=Josefin+Sans&family=Libre+Baskerville&family=Lora:wght@500&family=Luxurious+Roman&family=Montserrat&family=Orelega+One&family=Roboto+Slab&family=Rubik&family=Shippori+Antique&family=Smooch+Sans&family=Source+Sans+Pro&family=Titillium+Web&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Fredoka', sans-serif;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Back To Top */
+.back-to-top-button{
+  position: fixed !important;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000 !important;
+  cursor: pointer;
+}
+
+/* Whatsapp */
+.whatsapp{
+  background-color: green !important;
+  color: white !important;
+  cursor: pointer;
+}
+.whatsapp:hover{
+  background-color: rgb(0, 114, 0) !important;
+  color: rgb(233, 233, 233) !important;
+}
+
+/* Navbar Brand */
+.navbar-brand{
+  font-size: 22px !important;
+}
+
+/* Location */
+.location-text{
+  font-size: 15px;
+}
+.location-link{
+  color: #343A40;
+}
+.location-link:hover{
+  color: black !important;
+}
+
+/* Call Us , Email Us */
+.call-link:hover,.email-link:hover{
+  color: rgb(218, 218, 218) !important;
+}
+
+/* Search Icon */
+.search-form{
+  width: 20% !important;
+}
+.search-icon{
+  z-index: 1;
+  margin-right: -22px;
+}
+
+/* Navbar Links */
+.nav-link{
+  font-size: 18px;
+}
+.nav-link:hover{
+  transform: scale(1.1);
+}
+
+/* Our Products */
+.sidebar-button{
+  position: fixed;
+  z-index: 1000;
+  top: 0px;
+}
+.sidebar-content{
+  position: fixed;
+  top: 0px;
+  z-index: 1001;
+  overflow-x: hidden;
+  height: 100vh;
+}
+.sidebar-button-inside{
+  /* position: fixed;
+  left: 238px !important; */
+}
+.product-card{
+  width: 432px;
+  height: 550px;
+}
+.carousel-control-prev,.carousel-control-next{
+  width: 6% !important;
+  height: 40% !important;
+  margin-bottom: 10px !important;
+  border-radius: 25px !important;
+}
+.product-desc{
+  line-height: 26px !important;
+}
+.modal-dialog{
+  max-width: 800px !important;
+}
+.column-one{
+  width: 33.333333% !important;
+}
+.column-two{
+  width: 66.666666% !important;
+}
+
+/* Our Profile */
+.profile-about{
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+/* Accordion */
+.accordion-body{
+  line-height: 1.7 !important;
+}
+
+/* Footer */
+footer a{
+  margin: 2px 0px;
+}
+footer a:hover{
+  color: rgb(196, 196, 196) !important;
+}
+footer .brochure{
+  cursor: pointer;
+}
+
+/* Responsiveness */
+@media only screen and (max-width: 600px) { 
+  /* Navbar */
+  nav .container{
+    justify-content: center !important;
+  }
+  nav .navbar-logo{
+    margin-bottom: 15px ;
+  }
+  nav .navbar-buttons{
+    margin-bottom: 8px;
+  }
+  .navbar-expand-lg .container-fluid{
+    flex-direction: column;
+  }
+  .navbar-nav{
+    align-items: center;
+  }
+  .navbar-expand-lg form{
+    width: 75% !important;
+    margin-right: 0px !important;
+    margin-top: 15px !important;
+    margin-bottom: 5px !important;
+  }
+  /* Our Products */
+  /* Our Profile */
+  .certifications{
+    flex-direction: column;
+    align-items: center;
+  }
+  .certifications p{
+    width: 100% !important;
+  }
+  /* Footer */
+  .footer-top{
+    flex-direction: column;
+  }
+  .footer-top h4{
+    text-align: center;
+  }
+  .quick-links{
+    margin-top: 25px;
+  }
+  .footer-middle{
+    flex-direction: column;
+  }
+  .footer-middle h4{
+    justify-content: center !important;
+  }
+  .footer-middle .text-secondary{
+    margin-left: 0px !important;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+}
+@media only screen and (min-width:601px) and (max-width: 800px) {
+  /* Navbar */
+  .navbar-expand-lg form{
+    width: 93% !important;
+    margin: auto !important;
+    margin-top: 15px !important;
+    margin-bottom: 10px !important;
+  }
+  /* Our Products */
+
+  /* Our Profile */
+  .certifications{
+    flex-direction: column;
+    align-items: center;
+  }
+  .certifications p{
+    width: 100% !important;
+  }
+  /* Footer */
+  .footer-middle{
+    flex-direction: column;
+  }
+  .footer-middle h4{
+    justify-content: center !important;
+  }
+  .footer-middle .text-secondary{
+    margin-left: 0px !important;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .footer-middle .contact{
+    margin-bottom: 0px;
+  }
+}
+@media only screen and (min-width:801px) and (max-width: 1000px) {
+  /* Navbar */
+  .navbar-expand-lg form{
+    width: 100% !important;
+    margin: auto !important;
+    margin-top: 15px !important;
+    margin-bottom: 10px !important;
+  }
+  .navbar-nav{
+    align-items: center;
+  }
+  /* Our Profile */
+  .certifications .img-thumbnail{
+    display: flex;
+  }
+  /* Our Products */
+
+  /* Footer */
+  .footer-middle{
+    flex-direction: column;
+  }
+  .footer-middle h4{
+    justify-content: center !important;
+  }
+  .footer-middle .text-secondary{
+    margin-left: 0px !important;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .footer-middle .contact{
+    margin-bottom: 0px;
+  }
+}
+@media only screen and (min-width:992px) and (max-width: 1200px) {
+  /* Navbar */
+  .navbar-expand-lg form{
+    width: 25% !important;
+  }
+}
+
